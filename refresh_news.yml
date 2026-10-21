@@ -1,0 +1,55 @@
+name: Refresh K-water issue headlines
+
+on:
+  workflow_dispatch:
+  schedule:
+    # South Korea: 09:27 and 21:27 each day (UTC +9)
+    - cron: '27 0,12 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: kwater-news-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch news search RSS titles
+        run: python collect_news.py
+      - name: Save updated feed in repository
+        run: |
+          if ! git diff --quiet -- news-data.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add news-data.json
+            git commit -m 'Update public K-water headline index'
+            git push
+          fi
+      - name: Prepare public JSON-only website
+        run: |
+          mkdir -p publish
+          cp news-data.json publish/news-data.json
+          touch publish/.nojekyll
+          cat > publish/index.html <<'EOF'
+          <!doctype html><html lang="ko"><meta charset="utf-8"><title>K-water 공개 뉴스 목록</title><body><h1>K-water 공개 뉴스 목록</h1><p>기사 제목과 링크를 제공하는 공개 데이터이며, 기사 내용은 검증되지 않았습니다.</p><a href="news-data.json">news-data.json 보기</a></body></html>
+          EOF
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: publish
+      - name: Publish latest feed to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
