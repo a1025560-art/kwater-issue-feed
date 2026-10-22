@@ -1,9 +1,34 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T22:11+09:00",
+  "generated_at": "2026-10-22T10:05+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
+    {
+      "id": "2f54acc32c59ec8fdc",
+      "title": "LG전자, 한국수자원공사와 시화호 AI 조력발전소 추진을 위한 기술 협력 MOU 체결 - 한국경제",
+      "date": "2026-10-22",
+      "source": "한국경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6ZWFONmVKRTdiRkoyZWtkSWVZM0Y4QUFhdHdzT3UyRUwxQmhGOExRZEdDbVJEVk5ab0pnTzRBVkYtdkpSbjZSTUQ0QlV2cHJyVDNmYU5jMW94Zw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "공정"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "f1c9e6776e3829639e",
+      "title": "K-water, 전국 댐 주변 농특산물 온라인 장터 개설 - 동아일보",
+      "date": "2026-10-21",
+      "source": "동아일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4VHJXWkRjbFRIVlduYjB6bE1NUzVaS205SV8zNnlzSTA2c3JRTkgwLUQ0R1pSV2tXQ0RUMWZWOVRTSjVxbzNQUlAwdHc0N24tWWNQdFBQWWlVNjFZdjVOWVoxQ2RHU0NrMThNVlNUYlUyNERyWUHSAWZBVV95cUxNZndtcjlpMTFqOTMxY0xSVnNvUEZrSnR5YkZxVlFCdkVFNkVvQkNzLW1NVF9IcExzUFhuZlFBejZyLTN0VXlqa0hIRkJSRkMzdjh1SmJVakhOV0pxMHRfNWM3ZTZJUHc?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
     {
       "id": "41087f46a87620999b",
       "title": "한국수자원공사 섬진강댐지사, 구절초 꽃축제 후 환경정비 나서 - 전북도민일보",
@@ -22,17 +47,6 @@
       "source": "경북신문",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wNnpXdDRtUFJkRl9YamFxdFRhLUM0ZGtNYnB4ekRUMlBQaVNnNmgwQTdWbnZ3dXJCQ1hJTWRja1JRc3hwcEtEM1RURjFtWG9tOUlGTWlOajU?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "f1c9e6776e3829639e",
-      "title": "K-water, 전국 댐 주변 농특산물 온라인 장터 개설 - 동아일보",
-      "date": "2026-10-21",
-      "source": "동아일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1md21yOWkxMWo5MzFjTFJWc29QRmtKdHliRnFWUUJ2RUU2RW9CQ3MtbU1UX0hwTHNQWG5mUUF6NnItM3RVeWprSEhGQlJGQzN2OHVKYlVqSE5XSnEwdF81YzdlNklQd9IBZkFVX3lxTE1md21yOWkxMWo5MzFjTFJWc29QRmtKdHliRnFWUUJ2RUU2RW9CQ3MtbU1UX0hwTHNQWG5mUUF6NnItM3RVeWprSEhGQlJGQzN2OHVKYlVqSE5XSnEwdF81YzdlNklQdw?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
@@ -139,17 +153,6 @@
       "folder": "company-overview"
     },
     {
-      "id": "d98996834c3921755d",
-      "title": "사천시·K-water, 10월 15일 지역아동센터에 색칠북·비누 전달 - 한국사회복지저널",
-      "date": "2026-10-19",
-      "source": "한국사회복지저널",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RXExeHljUTZRUUVWR2pTWVhmTUd1TklZbmZacE5OSHBEYzMwWVJPbHBzTFI3ZzFnUXRMVUpuamxhSEZiZ09GNzVwWjlBRjYzSGZpaG9Ub0dlV0hsZFhfUkxxWm0yWlJkMEpn?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
       "id": "0bace09b33e97b86ec",
       "title": "[공기업 Pick] 한국수자원공사·한국전력·LH, 지역 상생과 인프라 개선 - 라이센스뉴스",
       "date": "2026-10-19",
@@ -216,25 +219,23 @@
       "folder": "company-overview"
     },
     {
-      "id": "d040515aa1755fbcb3",
-      "title": "K-water 영·섬유역협력단, 군산시 취약계층에 ‘행복가득 수(水) 프로젝트’ 지원 - 한국방송뉴스",
-      "date": "2026-10-18",
-      "source": "한국방송뉴스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kOW9wN01XZV9wdXhjR2NnWjk3VnhKelZ3Mk5QbzRjNW5PWG1lQ0lZNUlOMUF5aVFnMVZyUEJvcXFCdk1UZXE3d09naFVXV29LQ0xlTW85dm5rNzB4bHc?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
-    },
-    {
       "id": "4b061daa04348cd0be",
       "title": "K-water, 중미경제통합은행과 손잡고 중미 물 시장 진출 본격화 - KPI뉴스",
       "date": "2026-10-17",
       "source": "KPI뉴스",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kUGVIX2FVdEltU3dYTlhMSlhYRWd6UlFwWjRoLWplbGsyOWdKUTlhcE80bXlRQk9qVkZ1bUdPTGxxVnFxbVZoZFN4T2NnU2JIdzBR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42c2NVSkgzei1NbVlxUm1Ud2ZsTjViNTlZak1ubnNBN3JlZ0YzZjhMSHFiV0wxOXlSdDdEdGtxeVpQRmhYRHJSaTVEVk9hSWJxT1lBdjg0UQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
+      "id": "fa843d7e896145d032",
+      "title": "한국수자원공사, 군산 취약계층 2가구 주방·욕실 개선에 1,400만원 지원 - 투데이 군산",
+      "date": "2026-10-16",
+      "source": "투데이 군산",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Uc3pDT1VtUThhUHJHRXdGQURqYUpXVEdsR3dnb1E2OFFtRTlTQkEzOF9tbWpkMW4wMDN2Nm9zaThPd0NkMkpOV1BJMDRhQ1M1UU84VElzSElWRVJnWWNKZmdUSVVZZEduaXZKT0J2elM?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
@@ -251,17 +252,6 @@
         "공정"
       ],
       "folder": "project-p7"
-    },
-    {
-      "id": "fa843d7e896145d032",
-      "title": "한국수자원공사, 군산 취약계층 2가구 주방·욕실 개선에 1,400만원 지원 - 투데이 군산",
-      "date": "2026-10-16",
-      "source": "투데이 군산",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Uc3pDT1VtUThhUHJHRXdGQURqYUpXVEdsR3dnb1E2OFFtRTlTQkEzOF9tbWpkMW4wMDN2Nm9zaThPd0NkMkpOV1BJMDRhQ1M1UU84VElzSElWRVJnWWNKZmdUSVVZZEduaXZKT0J2elM?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
     },
     {
       "id": "a51a17f84936ce7c34",
@@ -286,28 +276,6 @@
         "공정"
       ],
       "folder": "project-p7"
-    },
-    {
-      "id": "cf23f56f78b2364b56",
-      "title": "한국수자원공사, 댐 주변 농특산물 전국 온라인 판로 넓힌다 - 프레시안",
-      "date": "2026-10-16",
-      "source": "프레시안",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UT2ZJSTBYWWVpYWN6eExETGk0MXJNZnBiWnRFRHBNd2diVm5nZElZX3VuMm40MjRaa29kaDVRbXFScktkT0Y3bW1laEgxdnNRcnNNUmk5NnE3XzZhaENfUWx4YlJfbnpNTXQ4?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "ab9edf8982ad65d565",
-      "title": "싱크대부터 욕실까지 바꾼다… K-water, 군산 취약계층에 1,400만 원 나눔 - 한국시민기자협회 뉴스포털1",
-      "date": "2026-10-16",
-      "source": "한국시민기자협회 뉴스포털1",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BNW4ydUxUMDhFQ0drb0pTQlQ2MC1BazFWREtMTmlrYVZRc0F3cXFFRjZMMTk3bDVGODFxbDQ1TGZDRDU4YUhkWXhVUUxQUXUwd2VVbm13b05yalduVXpMaUg4bFJoLXJZUUgxekItMFZPRE3SAXdBVV95cUxQTWtFOW82Qi1CWnBqaXJjdFBQN2tkM2JLS0wxbk1kMmRSRVBabFRhMXZyeXJfa1RORzdLc3FWU2Y0T0pjRHl5anNXNzYxOXVRcmpGQ0J2ZGVpcWM0MndsMWFiUHJ3ckk3bmlWM0FCZ3N6OVVsMzNQMA?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
     },
     {
       "id": "fcdda408b0ab2dd413",
@@ -431,6 +399,17 @@
       "folder": "company-overview"
     },
     {
+      "id": "92bae38b527337cde3",
+      "title": "한국수자원공사, 9개 기관과 손잡고 국가 K-테스트베드 실증 수준 높인다 - 환경신문",
+      "date": "2026-10-15",
+      "source": "환경신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VaDVDRHNWV1ZiVHJwV1AzcXBvWnd4aGFTS3hZYV9BY21TS2YzSzR1bWVrUTIwUml2bzdYQnRRc0NTQWs?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
       "id": "a0f7fc4b17262b48cc",
       "title": "한국수자원공사, 9개 기관과 손잡고 국가 K-테스트베드 실증 수준 높인다 - 충청투데이",
       "date": "2026-10-14",
@@ -448,6 +427,32 @@
       "source": "유교신문",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNnZVVnRtQlAydHVVNmJ1S2VXRnlkc0NFOE1zNzNxUzZ1WmlHV1ZIel9RR0NrQ0dhaE00R2JXZlc0dGo1eVZyZ1RKbGpwd0lRNWNzWGNmUGN1OHJJN0pJRw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "47b503e4efc825acdb",
+      "title": "국립생태원-한국수자원공사, K-테스트베드 업무협약 체결 - 금강일보",
+      "date": "2026-10-14",
+      "source": "금강일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tVk1fTkRVdS1uRjYtYkd4dl9LX0lTdHBhUHF6dEhPZGpXRVp5MW9BLXJpV2VlQU40cjI1ekE2OW5kc1M4M0NENTdNZFppc25FQzRBVGlzZFMwV1Qzd3VYb1BNc0xJYS1xclE?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "계약"
+      ],
+      "folder": "company-overview"
+    },
+    {
+      "id": "358f8e56a2adaa9856",
+      "title": "[한국수자원공사] AI 정수장, ISO 국제표준안(DIS) 공식 투표 통과…국제표준 제정 눈앞 - 워터저널",
+      "date": "2026-10-14",
+      "source": "워터저널",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aZUVQRjFGRVhWZ28xUzJSVEdXZjJ0SmhXOHFaVG9pb1JaQlpNSUVxakZmdGxCdGhPcEwzX091U0ZFVGM4clNSamJHb2FDNFZhU2FVVy1pbl9aUEZ1dnVfRm9TV3lxOVRPZWU2eE5FWGtTUdIBdkFVX3lxTE5qa3gwSjJaT2JrdjNWam5nMHdqSGh1SERGUDFTbHhqQ3MxZUhaYjJWQ0Y0ZFZrV1NyLTQ2eHN4MEJNbmhnMU4tMkpfa0g3VmI2NmotVG9CYzVILXZQdlI5TW02ZjRHVmhYX2R3ckwyRTZZSnFta1E?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
