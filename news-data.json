@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T22:11+09:00",
+  "generated_at": "2026-10-23T10:10+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
     {
-      "id": "7555cd20171c85f22b",
-      "title": "LG전자, 한국수자원공사와 시화조력발전소 AI 전환 추진 - 조선비즈 - Chosunbiz",
-      "date": "2026-10-22",
-      "source": "Chosunbiz",
+      "id": "9f73fe5e3ee0677b56",
+      "title": "“스마트팩토리 영역 인프라로 확장”..LG전자, K-water와 ‘시화호 AI 조력발전소’ 구축 - 데일리카",
+      "date": "2026-10-23",
+      "source": "데일리카",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUFnTkdsUzVYSFVUbjlmdE1ETUNzRkxlODFkQUl2Y213aWhhSWJpdDZEcGtiMTNtZHNCQXcwRDdqYm16VXVJY1BoM0pHS3AwM21QN3Y3dS1lcC1aYjlwOEdMdUhmMERrUTh1NnY2THJMMHZRNGMzX0dOS19RdGV6cFJB0gGWAUFVX3lxTFBsQnBZM0pacXhKLVBBVl9DbHREY1pocVhITGxfVmE0UG1TSXhSb2NZWUl6bVU0SzExcWt3aENUeGhhelhNYVo1VzFqQ2ROaEVyUnVxTkYyajdzdVpyV2l0RXVtS2FRWGxIbkZOSTRLSUdBSG84bEpiLUpyVkJ3cTFnSmVqQXZTTjlBZlVmd3dzTmR6R0tZZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcm9PMEtSbkRWT1NBbXV0Y3NrWVVWWGQ1Z0NjYUhySGoyYTBCOTRVTEpHYkRJNWZaTkRVV052dENfeDBaVlZMR3RCaGtoLXl5SE5SVEMwODM5SWl1STBVUHctWWNKdmh5cFJXMkhXS3Q3TG02dWc?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
@@ -31,15 +31,17 @@
       "folder": "project-p5"
     },
     {
-      "id": "24bf310e9d3329e715",
-      "title": "한국수자원공사, 보성군 청년 홀로서기 첫걸음 지원했다 - 전남일보",
+      "id": "7555cd20171c85f22b",
+      "title": "LG전자, 한국수자원공사와 시화조력발전소 AI 전환 추진 - 조선비즈 - Chosunbiz",
       "date": "2026-10-22",
-      "source": "전남일보",
+      "source": "Chosunbiz",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nRXBmb0FPUkdpbE5URmgxNVUxOFZVREdEUnVXUW5sZHhmQTBqQVlXNGNDV1dxa2JhaUcwcmZDcXJVQ3l3T0RUQk1jVzZ2ZGhScTk4anQ4S25rTzZHdHFhVzJvWnU4NHJYa3hJNUZBOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUFnTkdsUzVYSFVUbjlmdE1ETUNzRkxlODFkQUl2Y213aWhhSWJpdDZEcGtiMTNtZHNCQXcwRDdqYm16VXVJY1BoM0pHS3AwM21QN3Y3dS1lcC1aYjlwOEdMdUhmMERrUTh1NnY2THJMMHZRNGMzX0dOS19RdGV6cFJB0gGWAUFVX3lxTFBsQnBZM0pacXhKLVBBVl9DbHREY1pocVhITGxfVmE0UG1TSXhSb2NZWUl6bVU0SzExcWt3aENUeGhhelhNYVo1VzFqQ2ROaEVyUnVxTkYyajdzdVpyV2l0RXVtS2FRWGxIbkZOSTRLSUdBSG84bEpiLUpyVkJ3cTFnSmVqQXZTTjlBZlVmd3dzTmR6R0tZZw?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
     },
     {
       "id": "bfc8394cd65cff8910",
@@ -48,33 +50,6 @@
       "source": "디일렉",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3UE16aDBTWXAyX1RZeWpUYl9TNG5tRHJvQXAyVWEyWldySWdqT0kzUEFQY0lvbDItZ2FjNDFpLXpPX0hncHZ2aW1YU3ZURjBIOXo1SVkyTHJQaFVDV1Q5Sl9NVlJ5UQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동",
-        "공정"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "94a96b6c54591aca7b",
-      "title": "LG전자, 한국수자원공사와 손잡고 '시화조력발전소' AI 전환 추진 - 비즈니스포스트",
-      "date": "2026-10-22",
-      "source": "비즈니스포스트",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13QWJrb1VUYWdZdERKTU04VEQ2c3JCZHpLd0hqdUM3VmJfQkszbjktUUJUX1lxQjVKcmJZTVVvNjVkSWd4Sm5xWG9kb1cyU1o0cWM3bU5IWUxwdWtmeFZWLW5EM0pjb0ZlMUNFQ09EQ0ZSN3M?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "40abdcaccc3feecdc1",
-      "title": "LG전자, K-water와 협력해 ‘시화조력발전소 AI 전환’ 추진 - 브릿지경제",
-      "date": "2026-10-22",
-      "source": "브릿지경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FYS1VMFdNeGh3ckFOTkpoR05xOXA3VU1GZkdOLTlFZjVtTXNYR1EzTF9QVk52ekRxbFBXVWZzUGtUdFFQcGt1REdRaUhhOEFCTEFfQ3cydE5oQQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동",
@@ -96,15 +71,16 @@
       "folder": "project-p5"
     },
     {
-      "id": "8e05b05f33e74eac76",
-      "title": "LG전자, 한국수자원공사와 맞손…시화호 조력발전소 ‘AI 디지털 전환’ 나선다 - 대한경제",
+      "id": "40abdcaccc3feecdc1",
+      "title": "LG전자, K-water와 협력해 ‘시화조력발전소 AI 전환’ 추진 - 브릿지경제",
       "date": "2026-10-22",
-      "source": "대한경제",
+      "source": "브릿지경제",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0xEeW1mVnNqckhNeDBvdFUzS1dtOS0wS21pQUNMb3N2R1hlTDM1TjhUbGFYbUhjLUJzaGdmWHZKRDNzNTlCSG5lR3o0UTgtOXRkRnd4MTFjTU5pTlJEamJrTVJfZ0syRloxSjB6cTlzbmFVLTB3U2NIcnNpNjJVNlZVTWVSUU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FYS1VMFdNeGh3ckFOTkpoR05xOXA3VU1GZkdOLTlFZjVtTXNYR1EzTF9QVk52ekRxbFBXVWZzUGtUdFFQcGt1REdRaUhhOEFCTEFfQ3cydE5oQQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
-        "역동"
+        "역동",
+        "공정"
       ],
       "folder": "project-p5"
     },
@@ -161,6 +137,19 @@
       "folder": "project-p5"
     },
     {
+      "id": "94a96b6c54591aca7b",
+      "title": "LG전자, 한국수자원공사와 손잡고 '시화조력발전소' AI 전환 추진 - 비즈니스포스트",
+      "date": "2026-10-22",
+      "source": "비즈니스포스트",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13QWJrb1VUYWdZdERKTU04VEQ2c3JCZHpLd0hqdUM3VmJfQkszbjktUUJUX1lxQjVKcmJZTVVvNjVkSWd4Sm5xWG9kb1cyU1o0cWM3bU5IWUxwdWtmeFZWLW5EM0pjb0ZlMUNFQ09EQ0ZSN3M?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
       "id": "8651f5640ad5f7dcf1",
       "title": "LG전자·한국수자원공사, 세계 최대 시화호 조력발전소 AI 대전환 추진 - ER 이코노믹리뷰",
       "date": "2026-10-22",
@@ -185,6 +174,19 @@
         "공정"
       ],
       "folder": "project-p7"
+    },
+    {
+      "id": "8e05b05f33e74eac76",
+      "title": "LG전자, 한국수자원공사와 맞손…시화호 조력발전소 ‘AI 디지털 전환’ 나선다 - 대한경제",
+      "date": "2026-10-22",
+      "source": "대한경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WZkN1Ykd0VlBqQVhJNnc2QW1PcTdXdWVVcWd2Q1JaOUJOSUk5LU9lZGU2RFRWeDNYQ3hkUEJDU0h4WmlZSlZNLXR6QnI4cnVCcXhEOVRzSXlxRlRpSjVmSDdCLVk4Mk1DdkZZSFpGR2xLeFkxMGc?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
     },
     {
       "id": "87e3596dac9d2cdfef",
@@ -229,6 +231,17 @@
       "folder": "project-p5"
     },
     {
+      "id": "fb82a6ba8744ddb2fe",
+      "title": "[창간22주년 특집: 물의 경제학, K-water의 미래]② 한국수자원공사, 1627개 실증 인프라에 美 거점 확장…K-물기업 수출 성장판 넓힌다 - 업코리아",
+      "date": "2026-10-22",
+      "source": "업코리아",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlU3J4aDVocUNrZ0cyMTM1MlNrWjFTX1NMeXJmWGtIRURtbDQzWm5FRVljTnJuc1JsUGd6bHhENkFaQTY0WG1lbXh4X0FrVU9XODNHQ0cyMEk1YTNKYnItSWxHVFJGUTZwT2d4ajdB?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
       "id": "0a6333682ffe88f85b",
       "title": "LG전자, K-water와 시화호 조력발전소 AI 전환 추진 - PRESS9",
       "date": "2026-10-22",
@@ -238,20 +251,6 @@
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "ac29f08bd32a501e18",
-      "title": "LG전자, K-water와 시화호 AI 조력발전소 협약 - 코리아리포트",
-      "date": "2026-10-22",
-      "source": "코리아리포트",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wWC0zbGxUcGFqd3RVZHhZVXFibHlCT05TYzJlMVh2SEs1SThmbk8tc1MwaDQ4SUJKTFh2dmlpR3ZLYVduYW96d3RJWFNubUV1aUxRby1qa25TMnpTck5zMDl3dEU3ay0xVjBPQU9meGY?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동",
-        "계약"
       ],
       "folder": "project-p5"
     },
@@ -284,17 +283,6 @@
       "folder": "project-p5"
     },
     {
-      "id": "fb82a6ba8744ddb2fe",
-      "title": "[창간22주년 특집: 물의 경제학, K-water의 미래]② 한국수자원공사, 1627개 실증 인프라에 美 거점 확장…K-물기업 수출 성장판 넓힌다 - 업코리아",
-      "date": "2026-10-22",
-      "source": "업코리아",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlU3J4aDVocUNrZ0cyMTM1MlNrWjFTX1NMeXJmWGtIRURtbDQzWm5FRVljTnJuc1JsUGd6bHhENkFaQTY0WG1lbXh4X0FrVU9XODNHQ0cyMEk1YTNKYnItSWxHVFJGUTZwT2d4ajdB?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
       "id": "d7b7ac9f1616dac402",
       "title": "LG전자, 한국수자원공사와 'AI 조력발전소' 구현 업무협약 체결 - 데이터뉴스",
       "date": "2026-10-22",
@@ -322,6 +310,19 @@
       "folder": "project-p5"
     },
     {
+      "id": "9428ab4a5b7e65a0e9",
+      "title": "K-water 영·섬유역협력단, 보성군 자립준비청년 위해 800만 원 기탁 - 호남타임즈",
+      "date": "2026-10-22",
+      "source": "호남타임즈",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSkdPTWVZUVN4eXd1RGRWa050MEFWODBHeEw2NW1Qal9YQjZZaTQwRjNQWW5fb1ZIcF9uam9jbjVFZHFfOEEzZ2I2U2NBd2RKX29mb0FhSXBFdEtfN3k5Umc1d2NkRzIzZ19MUw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
       "id": "d9eaebd54bfa73977a",
       "title": "보성군에 이어진 따뜻한 나눔... 보성건설기계협동조합·K-water 1,100만원 기탁 - 폴리뉴스 Polinews",
       "date": "2026-10-22",
@@ -333,29 +334,16 @@
       "folder": "company-overview"
     },
     {
-      "id": "7b0fd67383c8dd3c6d",
-      "title": "AI 조력발전소 구현 나선다…LG전자-한국수자원공사 기술 협력 - 뉴스퀘스트",
+      "id": "ac29f08bd32a501e18",
+      "title": "LG전자, K-water와 시화호 AI 조력발전소 협약 - 코리아리포트",
       "date": "2026-10-22",
-      "source": "뉴스퀘스트",
+      "source": "코리아리포트",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiVVQ4V00tZ3l4YjNRLWhUZF9uV0h6WGg0c21JTUgxdDVhVS1Dd3BhS01uVWs2Z0lVcERqM05FMjM4VU5PUy00Rko4UkdOZWl3N0d6VUJ3Ym1Pc3BseUc4QVlHM180Rm9Fb19wN3JFYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wWC0zbGxUcGFqd3RVZHhZVXFibHlCT05TYzJlMVh2SEs1SThmbk8tc1MwaDQ4SUJKTFh2dmlpR3ZLYVduYW96d3RJWFNubUV1aUxRby1qa25TMnpTck5zMDl3dEU3ay0xVjBPQU9meGY?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동",
-        "공정"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "f5be838d929f7a1ea7",
-      "title": "LG전자·LGU+, 한국수자원공사와 시화호 AI 조력발전소 추진 MOU·에릭슨과 장거리 프론트홀 기술 검증 - 여성소비자신문",
-      "date": "2026-10-22",
-      "source": "여성소비자신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TS0txMjQwWWJMREQ4LTF5Q1QtNXM2N3hMQ3laZWNPbVlBM0JYckViUXg5bm5mNUFKYWN1NkUzTHRIQUpDU3NCN3NYenhWbTd6SzJPV3BoSC1Fck9YOWVJZGZxYVpCUQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
+        "계약"
       ],
       "folder": "project-p5"
     },
@@ -374,6 +362,59 @@
       "folder": "project-p5"
     },
     {
+      "id": "7b0fd67383c8dd3c6d",
+      "title": "AI 조력발전소 구현 나선다…LG전자-한국수자원공사 기술 협력 - 뉴스퀘스트",
+      "date": "2026-10-22",
+      "source": "뉴스퀘스트",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiVVQ4V00tZ3l4YjNRLWhUZF9uV0h6WGg0c21JTUgxdDVhVS1Dd3BhS01uVWs2Z0lVcERqM05FMjM4VU5PUy00Rko4UkdOZWl3N0d6VUJ3Ym1Pc3BseUc4QVlHM180Rm9Fb19wN3JFYw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "공정"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "3f043b0430c95dba9b",
+      "title": "LG전자, 한국수자원공사와 시화조력발전소 AI 전환 추진 - 아시아투데이",
+      "date": "2026-10-22",
+      "source": "아시아투데이",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdFRPQm4zUF92MWthb1B2eExqejJfQU55a2VKR1FQSzNEN2p5UWhnTVk5NUNTYjNTR25JWnBEZ2RySGhKa0NHMm1UMElmcGtvc2J4Z1NBbXpLS3lQdElHQmdlR2xpa1ZRdEk5cnV3?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "f5be838d929f7a1ea7",
+      "title": "LG전자·LGU+, 한국수자원공사와 시화호 AI 조력발전소 추진 MOU·에릭슨과 장거리 프론트홀 기술 검증 - 여성소비자신문",
+      "date": "2026-10-22",
+      "source": "여성소비자신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TS0txMjQwWWJMREQ4LTF5Q1QtNXM2N3hMQ3laZWNPbVlBM0JYckViUXg5bm5mNUFKYWN1NkUzTHRIQUpDU3NCN3NYenhWbTd6SzJPV3BoSC1Fck9YOWVJZGZxYVpCUQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "4816d6a99d7d43d22d",
+      "title": "[포토] LG전자 K-water 시화호 조력발전소 AI 전환 - 뉴스클레임",
+      "date": "2026-10-22",
+      "source": "뉴스클레임",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yRWZzcmo4VzNSb09PV3ZGM3hidng0blVjbDFqOWxpR3lBbzVrcDAzaWdoYno1QW8takZTVmxGdWdsTWVidC1YajI5a3JOWTNwVDIza2V2VHJCY3kzdE53aTRJQmZCOWxwZ2k0YTEtREV2QkZI0gF0QVVfeXFMTTJFZnNyajhXM1JvT09XdkYzeGJ2eDRuVWNsMWo5bGlHeUFvNWtwMDNpZ2hiejVBby1qRlNWbEZ1Z2xNZWJ0LVhqMjlrck5ZM3BUMjNrZXZUckJjeTN0TndpNElCZkI5bHBnaTRhMS1ERXZCRkg?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
       "id": "d981f24e85d9e31127",
       "title": "[AI 인프라] LG전자·K-water, 세계 최대 시화조력발전소 ‘AI 발전소’ 전환 나선다 - 코리아포스트 한글판",
       "date": "2026-10-22",
@@ -385,6 +426,19 @@
         "역동"
       ],
       "folder": "project-p5"
+    },
+    {
+      "id": "a6101c3cf279db2001",
+      "title": "K-water 영·섬유역협력단, 보성군 자립준비청년 위해 800만원 기탁 - 이뉴스투데이",
+      "date": "2026-10-22",
+      "source": "이뉴스투데이",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOTIxYTJmQnFibmJpYTBPRlBFbjhDZVB6TjVIOVRHTXZuQW4xREwzQV8ySXdocUtiM2F6RDloUE9kOWZGNG5MbVlCblE3UjBZSDV1NGlYcExZZENYRHhGTnpCVlYxeFZYeVM0cVpWSG1naXkz0gF0QVVfeXFMTmM5MjFhMmZCcWJuYmlhME9GUEVuOENlUHpONUg5VEdNdm5BbjFETDNBXzJJd2hxS2IzYXpEOWhQT2Q5ZkY0bkxtWUJuUTdSMFlINXU0aVhwTFlkQ1hEeEZOekJWVjF4Vlh5UzRxWlZIbWdpeTM?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
     },
     {
       "id": "352fb632ff7a977836",
@@ -400,12 +454,12 @@
       "folder": "project-p5"
     },
     {
-      "id": "a95ea84fb74d826483",
-      "title": "“스마트팩토리 영역 인프라로 확장”..LG전자, K-water와 ‘시화호 AI 조력발전소’ 구축 - 데일리카",
+      "id": "221983c018f034cf36",
+      "title": "LG전자, 한국수자원공사와 ＇시화호 AI 조력발전소＇ 기술 개발 - 한국경제TV",
       "date": "2026-10-22",
-      "source": "데일리카",
+      "source": "한국경제TV",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcm9PMEtSbkRWT1NBbXV0Y3NrWVVWWGQ1Z0NjYUhySGoyYTBCOTRVTEpHYkRJNWZaTkRVV052dENfeDBaVlZMR3RCaGtoLXl5SE5SVEMwODM5SWl1STBVUHctWWNKdmh5cFJXMkhXS3Q3TG02dWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTekotb0tOSll5N0poVVl3T3RhTG05bTFwZU1IX0VRWTI0cGRHV2tidGtWSVhoRXhGb09yUXd5RVprN3dlanZWY3d0eTNpNzQ0OXFaaGs3bkRlQk1JancxSDdxNlJTdm1yRW9kTXo3R2duN2c?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
@@ -426,44 +480,31 @@
       "folder": "project-p5"
     },
     {
-      "id": "3f043b0430c95dba9b",
-      "title": "LG전자, 한국수자원공사와 시화조력발전소 AI 전환 추진 - 아시아투데이",
+      "id": "0070101ca175e220e9",
+      "title": "LG전자, K-water와 세계 최대 시화조력발전소 AI 전환 협약 - 중앙뉴스",
       "date": "2026-10-22",
-      "source": "아시아투데이",
+      "source": "중앙뉴스",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdFRPQm4zUF92MWthb1B2eExqejJfQU55a2VKR1FQSzNEN2p5UWhnTVk5NUNTYjNTR25JWnBEZ2RySGhKa0NHMm1UMElmcGtvc2J4Z1NBbXpLS3lQdElHQmdlR2xpa1ZRdEk5cnV3?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "c24b0f40b9ac729d43",
-      "title": "LG전자, 한국수자원공사와 AI 조력발전소 구축 맞손…스마트팩토리 사업 확대 - https://www.moneystorm.kr/",
-      "date": "2026-10-22",
-      "source": "https://www.moneystorm.kr/",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90amROa3RfNTNNdnhydXRZTmVwekVKYnY0VXp5bUZ4eU80Z3I0OHJ4czR0Q2R6aTV6RVlieHZMMmw1TWxqSTJTMmRtTEZBX1RnelF4OHAzWDhNM3NNVWMyMFd6SUo4MHJVeUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82eXVveTJLRmQwdWJib3BRS3I3dnc1U2l6SlR3TnlSZks3TXc0MFJYVTZlbGFJVzBZNHhvQmhmOTVOTjN1NU81M09FNjhBLUozOGlGU0w5TmU5Q1d5Q3B3aHcwTFk5ZzZrbFNZ0gFvQVVfeXFMTm0ydHZZZDBsQWtHblRXX2xWWnM3X0V1cHJEd3Z2aE1ybXpaeWxnWlBCeWNXYlNLeUdUd1FHUGp3UmtvN1ptc09tazZCdTU3WG5XWGhOZ21iTFpsWHVxeVB0N05RR0hVeFpPN0h1V29R?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동",
-        "사업관리"
+        "계약"
       ],
       "folder": "project-p5"
     },
     {
-      "id": "1b2dcb56ffc5a6cb5a",
-      "title": "\"스마트팩토리 역량 공공 인프라로\"…LG전자, K-water와 시화호 AI 조력발전소 구축 맞손 - 더페어",
+      "id": "17d88bad153c849c73",
+      "title": "K-water 영·섬유역협력단, 보성군 자립준비청년 위해 800만 원 기탁 - 목포타임즈",
       "date": "2026-10-22",
-      "source": "더페어",
+      "source": "목포타임즈",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVlltbzdOQ1ZlRDlhYXlkNlBya1MwTFFnbHJFeEhDS1FGbEIzeXBMOXBmbHhPdV9aV0xZZTY1bFB3ZU5kS2M5SnpMR0VnVDYtdnJsdUd4Y3lsN2c0MEw3ai1ybjBXTGtrb1gtUFdOWms?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWNEVmM0N3RkF0cXBJSFFoQTZ3d2Fub0hQRnl1aXR0QWs5ZVJiRjd0OGRYWmc5NWZYUy1pQmgyM0ZZVmNTN0ZiQldYd0k2a01vVFdUVFE4UG42cm9tSzlwdVN4dVNEU2hp?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
-        "역동"
+        "공정"
       ],
-      "folder": "project-p5"
+      "folder": "project-p7"
     },
     {
       "id": "3e6b5126fd695786a0",
@@ -479,48 +520,18 @@
       "folder": "project-p7"
     },
     {
-      "id": "f1c9e6776e3829639e",
-      "title": "K-water, 전국 댐 주변 농특산물 온라인 장터 개설 - 동아일보",
-      "date": "2026-10-21",
-      "source": "동아일보",
+      "id": "c24b0f40b9ac729d43",
+      "title": "LG전자, 한국수자원공사와 AI 조력발전소 구축 맞손…스마트팩토리 사업 확대 - https://www.moneystorm.kr/",
+      "date": "2026-10-22",
+      "source": "https://www.moneystorm.kr/",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4VHJXWkRjbFRIVlduYjB6bE1NUzVaS205SV8zNnlzSTA2c3JRTkgwLUQ0R1pSV2tXQ0RUMWZWOVRTSjVxbzNQUlAwdHc0N24tWWNQdFBQWWlVNjFZdjVOWVoxQ2RHU0NrMThNVlNUYlUyNERyWUHSAWZBVV95cUxNZndtcjlpMTFqOTMxY0xSVnNvUEZrSnR5YkZxVlFCdkVFNkVvQkNzLW1NVF9IcExzUFhuZlFBejZyLTN0VXlqa0hIRkJSRkMzdjh1SmJVakhOV0pxMHRfNWM3ZTZJUHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90amROa3RfNTNNdnhydXRZTmVwekVKYnY0VXp5bUZ4eU80Z3I0OHJ4czR0Q2R6aTV6RVlieHZMMmw1TWxqSTJTMmRtTEZBX1RnelF4OHAzWDhNM3NNVWMyMFd6SUo4MHJVeUE?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "41087f46a87620999b",
-      "title": "한국수자원공사 섬진강댐지사, 구절초 꽃축제 후 환경정비 나서 - 전북도민일보",
-      "date": "2026-10-21",
-      "source": "전북도민일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1ZBR1hKUzlER0JyYTVNa3daekQwa2pRU0Z4aGpDbmRTdE1ZaFlsUTFBWUs2UXc5S0hVd2dOVkFUWWI3TXhhZ1pJT252ZlQ3cUlEcFYtTmxhVEJHX05TSnc5dTlNREkzMF9PT01vZl9Bem5WMDhZV25BeGVBS0hzLWZ1S2V6QQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "8a8ee6928083f42271",
-      "title": "K-water 보현산댐지사, 화북면 어르신 삶의 이야기 영상으로 기록 - 경북신문",
-      "date": "2026-10-21",
-      "source": "경북신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wNnpXdDRtUFJkRl9YamFxdFRhLUM0ZGtNYnB4ekRUMlBQaVNnNmgwQTdWbnZ3dXJCQ1hJTWRja1JRc3hwcEtEM1RURjFtWG9tOUlGTWlOajU?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "a7472ced7eec3408ee",
-      "title": "한국수자원공사, 한탄강 트레일러닝 개최…지역 관광 연계 - 폴리뉴스 Polinews",
-      "date": "2026-10-21",
-      "source": "폴리뉴스 Polinews",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SldsdHVJRkFzZWZnRXB0Sjg2MTlFcXRqSzdFUkNUaF83TUNJZk9qeEEyQUJMdkktdGY5WmVfWC1nUm5weHZoX0x4V0x5cXg1UnRWUFQ1WkN4eDRiVy1ZZ2REY3BmXy1jeHNRUlNB?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
+      "tags": [
+        "역동",
+        "사업관리"
+      ],
+      "folder": "project-p5"
     }
   ]
 }
