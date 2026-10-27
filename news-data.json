@@ -1,16 +1,81 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T00:00+09:00",
+  "generated_at": "2026-10-27T10:12+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
     {
-      "id": "2a642b493ba40a0c26",
-      "title": "한국수자원공사, 안동댐 50주년 기념 축제 성료…8000여 명 참여 - 프레시안",
-      "date": "2026-10-26",
-      "source": "프레시안",
+      "id": "32f207652be4ae388f",
+      "title": "한국수자원공사, 베트남 AI 정수장 수출 확대…호찌민 이어 하노이 진출 - 에너지데일리",
+      "date": "2026-10-27",
+      "source": "에너지데일리",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uemNNRUhmd0RHSWFPRDZFSHlxbWp3TW5EY0R2cUdlcExhaTJFclN4SjZzTWc3bUphaG9wb3drYlhSa1BQaUh2N0RkdnJWd0dTaHZyOVF1N0tIeEVrVzVNNWZyS1VNdjlDV19r?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRUFVDMjZueTBvdzk4RWtUcHg2TXdOUFZxQ3VhOWNpeW1VbDEzUVFTRmt1WGs1QTRvYWEzYUVuSjB6dnpKNzd0eFQzT00zSGZWNzJNQWEtUzY1ZU5fNHVSMjRaeE9jQlYtV2dVaEhFRGhQZw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "3988309485dbac578e",
+      "title": "한국수자원공사, AI 정수장 기술수출 2호 성사…베트남 수도 하노이까지 진출 - 리드경제",
+      "date": "2026-10-27",
+      "source": "리드경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBSjhGZkRHb0s2dUZVU2tPS3ZITmpkWGY0akFxXzd5NXd1dk9kaTdXZngtV1ZuOURHWGVGaWU2LVF6b24wTmxQUU0zN0NyRlRGeWFiRmwxc19CY0Q3dURhOUVHb05mSkxkNDFiTmJQNUU?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "f341067c6b93846e9b",
+      "title": "한국수자원공사, 베트남 하노이에 ‘AI 정수장’ 운영 기술 공급 계약 - 뉴스드림",
+      "date": "2026-10-27",
+      "source": "뉴스드림",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hWTVRMHRWajdDS2FEZldyUTJFelZ1QUVkSEVmaDJ2Nkt3U1hGeEVWUUFlajF4LTQzRUdWSkRFTEs3YkNLa0lzSEFwZDRaRGFCdUx2U0J3T0ZyRDlJd0Jrb0QtX3k1X0diakJv0gFuQVVfeXFMUGhESFhfZUVLWmtmUEloZFFlM0I2TXh0UEFOLXpQOEFGdFJUbzhoSXlINDBSTTJZQlM5U2tKVzRVcE1iOTV0WlA0OFJDeUlsa1ZfaS1MbUg1RHAtUm1wUXVWc0RDTFZ6ZW1ueGxtR1E?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "계약",
+        "사업관리"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "3d9b136dfc13f46549",
+      "title": "K-water, 베트남 AI 정수장 기술 두 번째 수출…호찌민 이어 하노이로 - 파이낸셜뉴스",
+      "date": "2026-10-27",
+      "source": "파이낸셜뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BUzZzMW96T2t4bUFzMjUxODFNNnRFeU1XZUdBVlZBQkxwX1V2c0U3cDZKaVhROWw0UFFJOC1HQzItTW8wQlRXTkUtdEVlSFVCdzljclBkZUdFQQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "b58a9dc74a2ecd43fe",
+      "title": "K-water 안동권지사, 26일 세계물포럼기념센터서 공동 학술포럼 개최 - 매일신문",
+      "date": "2026-10-26",
+      "source": "매일신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5reWszS1ltVXFESkwtVXhySlMtajlOMzVNWHlTenV0T1RqSUl4QU9LUWdOTWVnakhmaWhuVDUwcXQ5RXFLdy1MRlNiTUlxR3FoVzNJYmgzM0JGdFlrcWZDcG1B?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
+      "id": "513359cfa4c42e4aed",
+      "title": "한국수자원공사, 안동댐 준공 50주년 기념 ‘런앤뮤직 페스티벌’ 개최 - 중부매일",
+      "date": "2026-10-26",
+      "source": "중부매일",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96cUNQS2J3TTZUbkJfc1JlZUJQWE5CUjhxekN1emtaMDhUaE1NdEpmaWVOY2xFQUppbFBZZnUwR0lYU0otakdSZFJ3Qmw3S2xrUjNTRC1QTndpWFhfa3dCYUdQQzBJWXp5T0E?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
@@ -60,23 +125,23 @@
       "folder": "company-overview"
     },
     {
-      "id": "1b6f6ca7673c24f149",
-      "title": "한국수자원공사, 안동댐 50주년 기념 축제 성료…8천여 명 참여 - 충청매일",
+      "id": "2a642b493ba40a0c26",
+      "title": "한국수자원공사, 안동댐 50주년 기념 축제 성료…8000여 명 참여 - 프레시안",
       "date": "2026-10-26",
-      "source": "충청매일",
+      "source": "프레시안",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBMjRNSlRZY2F0LTU3SnVwdjFaVWVGLUd3ckk2LVpPRW05SUF5bjFKdUd4RUwwNW41Y2p5YXZGTlNpYVdlQTFhU0ZnR3Fsdm05ZHUwWDUtWDZNZWhaTFVuYzExeHdKbW1RWVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uemNNRUhmd0RHSWFPRDZFSHlxbWp3TW5EY0R2cUdlcExhaTJFclN4SjZzTWc3bUphaG9wb3drYlhSa1BQaUh2N0RkdnJWd0dTaHZyOVF1N0tIeEVrVzVNNWZyS1VNdjlDV19r?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
     },
     {
-      "id": "2eb2581ea81e875e30",
-      "title": "LG전자, K-water와 '세계 최대' 시화호 조력발전소 AI 전환 나서 - 잡포스트",
+      "id": "0b472dab2d17d175c6",
+      "title": "LG전자·K-water, ‘시화호 AI 조력발전소’ 구축… 친환경 에너지 인프라 ESG 혁신 속도 높혀 - 테크데일리",
       "date": "2026-10-26",
-      "source": "잡포스트",
+      "source": "테크데일리",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yYVZNeFZ4TTd6dXpjREwwS2VzU0hpeGhDM1lZVVpIdFpyMHZNcXIwU3Vjc0c4S1pMdVBJYml5Uk9WcFdQRWRSRmdSQkxfUjVXSXNQNFZSeVN2M0cycGwxVlRMRzZkOGN4UHNwTDRB0gFyQVVfeXFMTzBVVk4zbHN0U3ZqZzVESHYxLUNvOWNSaWpKbnFyTDlnUXVnLUxXLW52WEY5VUl0Q0k2aVhLbGNIci1zQnFWTUZRZmJxb2g5R0ZSalBxMExXbFgtQjg1VWFVSUFiVW5BVkVkU0xabEN0MVJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TVk1PN0dYQnFYRGR6QXZqY0k5QkFNTHR6djhZSzQyVHBUOWV0UWN6dThzQVEzS0V0M1EwVHo3Sl9LOEhRQTZBcFhVamRaRFFUbHFRWHBId1FmT3JSLXd5S2lPLUpnSDl2WV9RYnJGMjZlUdIBckFVX3lxTE5TVk1PN0dYQnFYRGR6QXZqY0k5QkFNTHR6djhZSzQyVHBUOWV0UWN6dThzQVEzS0V0M1EwVHo3Sl9LOEhRQTZBcFhVamRaRFFUbHFRWHBId1FmT3JSLXd5S2lPLUpnSDl2WV9RYnJGMjZlUQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
@@ -84,48 +149,17 @@
       "folder": "project-p5"
     },
     {
-      "id": "f80654ebdb9d82381d",
-      "title": "한국수자원공사, ‘안동댐 50주년 런앤뮤직 페스티벌’로 관광·상생 모델 확산 - https://www.ppss.kr/",
+      "id": "2eb2581ea81e875e30",
+      "title": "LG전자, K-water와 '세계 최대' 시화호 조력발전소 AI 전환 나서 - 잡포스트",
       "date": "2026-10-26",
-      "source": "https://www.ppss.kr/",
+      "source": "잡포스트",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSUg0cmxVdmc2Wi1rN3AwRnJpYkFJSXJrMVBhd1hBLTJLUjZZZF9hRXRsbmFsVGlSamF6TlpFbE9yVG1nTTJQMWtKNHFnY3BOVTUydjMyaFNQWm9La1ZyLWI5UVY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wVVZOM2xzdFN2amc1REh2MS1DbzljUmlqSm5xckw5Z1F1Zy1MVy1udlhGOVVJdENJNmlYS2xjSHItc0JxVk1GUWZicW9oOUdGUmpQcTBMV2xYLUI4NVVhVUlBYlVuQVZFZFNMWmxDdDFSUdIBckFVX3lxTE8wVVZOM2xzdFN2amc1REh2MS1DbzljUmlqSm5xckw5Z1F1Zy1MVy1udlhGOVVJdENJNmlYS2xjSHItc0JxVk1GUWZicW9oOUdGUmpQcTBMV2xYLUI4NVVhVUlBYlVuQVZFZFNMWmxDdDFSUQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "94ee93e06c5f0de7dc",
-      "title": "한국수자원공사, 안동댐 50주년 러닝·K-POP 축제에 8000명…수변길이 문화관광 명소로 - 이코노미사이언스",
-      "date": "2026-10-26",
-      "source": "이코노미사이언스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SLUZEUHZJakN6LXJMaGwtYkN0b0RSQnlYSEtLcjZhN2FLRmMtNkJOZE5BYjIxNUdmUzdEbXByTklybU9uMk1qSF9zdGEwUFQtQkR2WUU3d1IwbFRLV2FOSFZaXzRxSDd6cDBCaTd5SQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "a7b68dbc117c38c992",
-      "title": "한국수자원공사, 안동댐 준공 50주년 기념 축제 개최 - 로이슈",
-      "date": "2026-10-26",
-      "source": "로이슈",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tcmhlbUJDLUxyU2V2UnBPcmJ6Y1lDeEFtak9xZ21RbFNDRjlNRWJHNUFlVjhmY2FYX01MTWxMclF3eWxxUHpPeVhOTkVwcXI1X1VROWNDYWlRdVR5eFc0TmlWbUdaVGFqWW5JVEE0Q0F1ZG90eExieHFn?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "99a27b7443ef94013c",
-      "title": "한국수자원공사, 안동댐 준공 50주년 기념 ‘런앤뮤직 페스티벌’ 성료 - 뉴스밴드",
-      "date": "2026-10-26",
-      "source": "뉴스밴드",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZYjFiRDdwWEVzbU56WFMtd1AxZGhGR25pekJVaV9jSjNaVk1IcG5WT2pjOVMxVXNveUgtVWI2MF9LOFU3aDlIbXRjN1FSbGtRRUUwQXQwRmY1ZWRYRWZqTUhZekYyajFI?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
     },
     {
       "id": "fd736548725b4eeb71",
@@ -142,19 +176,6 @@
       "folder": "project-p4"
     },
     {
-      "id": "eee5a8ecb7dcc02ea3",
-      "title": "LG전자, 스마트팩토리 역량 총집결해 K-water와 세계 최대 규모 조력발전소 AI 전환 나서 - CEO경제신문",
-      "date": "2026-10-25",
-      "source": "CEO경제신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UX0psTjhLSVA1THhTZnpnV0RiTkE3SFZwZElwN2ozemtkSkIycnN4YWthZUhDRmJxVHc2aV81bEVBZnI2eEJpZzk2ZFV6MUVrMlB0SFJkSndzdl93c1IyRXNvcGpyUTBvTkxseg?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
       "id": "59dfdc1402d7e9ce2d",
       "title": "보성군 청년 홀로서기 첫걸음...한국수자원공사 지원 - 이투데이",
       "date": "2026-10-23",
@@ -163,32 +184,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3UlpqajZIajFnRG9RdU15dUFYVldwckE1c3dyS1BWcjVxcWVod2FqWUM4NUdveFd5V0ZWZVJUbnJwVkhGb0dqY1NBQlBoOWIwNE1zLQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "9f73fe5e3ee0677b56",
-      "title": "“스마트팩토리 영역 인프라로 확장”..LG전자, K-water와 ‘시화호 AI 조력발전소’ 구축 - 데일리카",
-      "date": "2026-10-23",
-      "source": "데일리카",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcm9PMEtSbkRWT1NBbXV0Y3NrWVVWWGQ1Z0NjYUhySGoyYTBCOTRVTEpHYkRJNWZaTkRVV052dENfeDBaVlZMR3RCaGtoLXl5SE5SVEMwODM5SWl1STBVUHctWWNKdmh5cFJXMkhXS3Q3TG02dWc?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "2e5c8db59f442646e1",
-      "title": "바르게살기운동 대전시협의회, K-water 공모사업 미션투어 3회차 진행 - 로컬투데이",
-      "date": "2026-10-23",
-      "source": "로컬투데이",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wTU12T1NtVVRTOGVOcnJIbmNxMU1CVFBLa2phZTl1blVneElvTVdmT0tRcWR5YjBrMk9MZUEwRFY3QlRzcVVtc1NSUUJhSE5WTXdJZlNFWUlHd21MdFZCSlJVWmczRG53U0FEamdtTVo?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "사업관리"
-      ],
       "folder": "company-overview"
     },
     {
@@ -245,6 +240,19 @@
       "folder": "project-p5"
     },
     {
+      "id": "21b46403f1b1cc37a1",
+      "title": "LG전자, K-water와 AI기반 차세대 조력발전소 구축 - 중소기업신문",
+      "date": "2026-10-22",
+      "source": "중소기업신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uVDFiUlp0ZnN3RGMwNUJFN292c09ham9KbUtzZGdIUWQ2T3RXVUVYTW1aRm1uZXFFNkxtR1ppUkpBb08wVUhTaW9Wam1NRFVQTDQtM05uLVBkeHJFS29LNHF4cGNKTzEwU1d0aU13?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
       "id": "40abdcaccc3feecdc1",
       "title": "LG전자, K-water와 협력해 ‘시화조력발전소 AI 전환’ 추진 - 브릿지경제",
       "date": "2026-10-22",
@@ -271,6 +279,17 @@
         "공정"
       ],
       "folder": "project-p5"
+    },
+    {
+      "id": "60dd047501f8e8678f",
+      "title": "보성 자립준비청년에 희망 보탠 K-water…800만 원 전달 - 남도일보",
+      "date": "2026-10-22",
+      "source": "남도일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95c1g4akhkMEUyNXE1VDJubW5ob3JTUWNDbjZHTFZTUlk0ZFBrN3RQdGtZYzkwNjRuem5Ual9PaW1vVEVHV1cwOWl3VHJGaEJLN1Y2QzMxcmp1bDdXWmxXaF9JUTVuc3FVRE9OT9IBcEFVX3lxTFA2LU85b3BuOFh6YUdqWEg5ZWg1ZTRsdDdDS0FNUTJqLWE4enB6VzZ6bnNNSFBKRkV2elJ2b0VDYjA2dThxMFJiZ2xPZVdieUhXd0N6SGNwLVozM0NuQTJqLWdqT2lTUnpYTk9pblo1NTM?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
     },
     {
       "id": "2f54acc32c59ec8fdc",
@@ -436,6 +455,17 @@
       "folder": "project-p5"
     },
     {
+      "id": "d9eaebd54bfa73977a",
+      "title": "보성군에 이어진 따뜻한 나눔... 보성건설기계협동조합·K-water 1,100만원 기탁 - 폴리뉴스 Polinews",
+      "date": "2026-10-22",
+      "source": "폴리뉴스 Polinews",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zenVoMktJZ3NrV2xONVE5d3RibGRKSFpsOTB4U3lQZXRDbDlvYWtyTzI3cThTcDFXZ0ZMUjF0M1RLSWhMaGZwa2RMMXZmcFpFR0lJdmlWZWZVclVpTVFPRzlGYW9COE01cHVMRnFR?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
       "id": "ac29f08bd32a501e18",
       "title": "LG전자, K-water와 시화호 AI 조력발전소 협약 - 코리아리포트",
       "date": "2026-10-22",
@@ -478,43 +508,15 @@
       "folder": "project-p5"
     },
     {
-      "id": "f5be838d929f7a1ea7",
-      "title": "LG전자·LGU+, 한국수자원공사와 시화호 AI 조력발전소 추진 MOU·에릭슨과 장거리 프론트홀 기술 검증 - 여성소비자신문",
-      "date": "2026-10-22",
-      "source": "여성소비자신문",
+      "id": "f1c9e6776e3829639e",
+      "title": "K-water, 전국 댐 주변 농특산물 온라인 장터 개설 - 동아일보",
+      "date": "2026-10-21",
+      "source": "동아일보",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TS0txMjQwWWJMREQ4LTF5Q1QtNXM2N3hMQ3laZWNPbVlBM0JYckViUXg5bm5mNUFKYWN1NkUzTHRIQUpDU3NCN3NYenhWbTd6SzJPV3BoSC1Fck9YOWVJZGZxYVpCUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4VHJXWkRjbFRIVlduYjB6bE1NUzVaS205SV8zNnlzSTA2c3JRTkgwLUQ0R1pSV2tXQ0RUMWZWOVRTSjVxbzNQUlAwdHc0N24tWWNQdFBQWWlVNjFZdjVOWVoxQ2RHU0NrMThNVlNUYlUyNERyWUHSAWZBVV95cUxNZndtcjlpMTFqOTMxY0xSVnNvUEZrSnR5YkZxVlFCdkVFNkVvQkNzLW1NVF9IcExzUFhuZlFBejZyLTN0VXlqa0hIRkJSRkMzdjh1SmJVakhOV0pxMHRfNWM3ZTZJUHc?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "d981f24e85d9e31127",
-      "title": "[AI 인프라] LG전자·K-water, 세계 최대 시화조력발전소 ‘AI 발전소’ 전환 나선다 - 코리아포스트 한글판",
-      "date": "2026-10-22",
-      "source": "코리아포스트 한글판",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qQ00wTUhWdW1vb0tWbmVlTURVSklTQ20zcFNCaGloeWpPQmNVZEFoZ01INUUyRVhJMmY2Wjd2WXBqRERrREhENzFEWjdEYlFIOE1hVVRYcUp3Rld5UGwtQ3NNLWVtVFF6MUJGRTVn?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "3e6b5126fd695786a0",
-      "title": "LG전자·K-water 시화조력발전 협력 - 한스경제",
-      "date": "2026-10-22",
-      "source": "한스경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CazFwdWVpTnpQbjdoeHBneDNTVW5zQzNMdDBEOWdWcjB5eDMyYmVWcU4yRmxWUm1oYVNfNE8zekFBUldYM1l4cnRhdVlTcUxjQmVQS0N4aWZuQjB2YmFQOGJDd1c3cmFqQkxJ0gFvQVVfeXFMTUhsOHR1VzkzTnBJTUtIUlU1ZHBibTFDeTlLVUxXdHdUUFZxc1BnNHNFMTN3SkYtVWRVems2VjV3WnhrSDE3cDNWMWk1TkJEUmotcFdsT1pXQUkwOWpQaWY4QW9kSGdEOHB4NG9JeUVZ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
+      "tags": [],
+      "folder": "company-overview"
     }
   ]
 }
