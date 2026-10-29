@@ -1,19 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T10:25+09:00",
+  "generated_at": "2026-10-29T22:26+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
+    {
+      "id": "cd326cde77cd044518",
+      "title": "가우스랩, 한국수자원공사와 '태양광 발전량 예측·분석' 업무협약 - 머니투데이 - 머니투데이",
+      "date": "2026-10-29",
+      "source": "머니투데이",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ea2RFN05MZ0MtUW5aMS1OWEltY2N5VmhyUzBIYWk2bmloaG1lS1pfZ28tekdvQXRLanlfQkhJZFFUdGhYbTcyak8weTEtNGV5NFBhRWQ0YVMyV3M1MmVUa0FMclp6SXBaUzM4c1FHc9IBb0FVX3lxTE5Ea2RFN05MZ0MtUW5aMS1OWEltY2N5VmhyUzBIYWk2bmloaG1lS1pfZ28tekdvQXRLanlfQkhJZFFUdGhYbTcyak8weTEtNGV5NFBhRWQ0YVMyV3M1MmVUa0FMclp6SXBaUzM4c1FHcw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "계약"
+      ],
+      "folder": "company-overview"
+    },
     {
       "id": "c63c1ad64cc375d94a",
       "title": "[영암군] 한국수자원공사와 취약계층 물복지 개선 - 워터저널",
       "date": "2026-10-29",
       "source": "워터저널",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85aDkwU3RjeFNBS1BkWlNmUllTeTU2LXY0TFI2VUpFN0NxZHM1Sm1Db1VGLVVpUHZRVzA1T2RXR3o5Y3RCeXJXTXVmNTh6R2FfVFRSQWdVWGVfcFhmQVpFeFhTNi00TUJPYmIxZ1k0TW1VeFlhSUHSAXZBVV95cUxPOWg5MFN0Y3hTQUtQZFpTZlJZU3k1Ni12NExSNlVKRTdDcWRzNUptQ29VRi1VaVB2UVcwNU9kV0d6OWN0QnlyV011ZjU4ekdhX1RUUkFnVVhlX3BYZkFaRXhYUzYtNE1CT2JiMWdZNE1tVXhZYUlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qeXd2amR6YS14RUhQVjRXazkwVzNaWmpxWVlQS29lUEZWdm5oUE81X1FjQ1djT25Mdl81UVJELUpvbG1qOEFxRjQ3ZkI0R1FfX0FfdTBqcDFibGtxQmU0VzU5S1FvMzl3NWhvNXlHRzZtd9IBdkFVX3lxTE85aDkwU3RjeFNBS1BkWlNmUllTeTU2LXY0TFI2VUpFN0NxZHM1Sm1Db1VGLVVpUHZRVzA1T2RXR3o5Y3RCeXJXTXVmNTh6R2FfVFRSQWdVWGVfcFhmQVpFeFhTNi00TUJPYmIxZ1k0TW1VeFlhSUE?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
+    },
+    {
+      "id": "abe485ef90bed28b12",
+      "title": "K-water·미 오스틴시, AI 물관리 협력…현지 실증사업 추진 - 파이낸셜뉴스",
+      "date": "2026-10-29",
+      "source": "파이낸셜뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QQkZVM2hTemtidU9icFBrdV9qRG5kWktzNjZPbkd1aWVMMHNCZHA4eklRVE9rVHctd0hkc0RTRzFLdGhhX1lxR2JuOFNtSHNqTVhzRGx5OGRLUQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "공정",
+        "사업관리"
+      ],
+      "folder": "project-p5"
     },
     {
       "id": "b48a7783f9a5131d84",
@@ -25,6 +53,34 @@
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "31aae942fb1ac4f4af",
+      "title": "한국수자원공사, 미 오스틴시와 AI 물관리 협약...현지 실증 추진 - 뉴스락",
+      "date": "2026-10-29",
+      "source": "뉴스락",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tUFJuNFRrWWJqZUR4YXlwNzRaOXYzNnZfcTFVdENTazMzOUx3aDFlcHM4OWZuVmFjeWhWcXY0X2g2MkhYd25JcU9rQWRRdFZhRl9HQl9FMHFUWTlMNGJuX29hZEh3aDVDRGc1NA?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "계약"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "0356a4b98043380353",
+      "title": "한국수자원공사, 미 오스틴시와 AI 물관리 협력 본격화 - 뉴스1",
+      "date": "2026-10-29",
+      "source": "뉴스1",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzaUpDclRMNGQxbTluVDJFeGtHa2RISnVVQlEyNVcxY2V2ZFFGWlNwaEllLUk3czhEZ0JWWXNoUDJmRVRxdHFjc21JU1hnSUVZdzU1UzNlUXJoZHV0Q3FwZw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "공정"
       ],
       "folder": "project-p5"
     },
@@ -42,6 +98,19 @@
       "folder": "project-p7"
     },
     {
+      "id": "b58b3786fb986f85c9",
+      "title": "한국수자원공사, AI 물관리 기술 들고 미국 공략…삼성·테슬라 거점 오스틴시와 맞손 - 리드경제",
+      "date": "2026-10-29",
+      "source": "리드경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSSHp3eEd6cWNzSmRmbGJrek9TX0JwR2NfM0NoSXpXSVk0ZVg2XzFSVjhJSFhDSGl3Q0plR0NqY2laUVdCdzllOFZmdE1MbVFtWW15WjBKVFVhWU1IMHlLVG1OVUo0UkpvNFRiSF9oUnk?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
       "id": "ba29d8aaccb23bf19d",
       "title": "한국수자원공사, 안동댐 미래 100년 비전 선포 - 뉴스티앤티",
       "date": "2026-10-29",
@@ -53,15 +122,93 @@
       "folder": "company-overview"
     },
     {
+      "id": "c8e81785d1f9d6f085",
+      "title": "한국수자원공사, 美 오스틴시와 AI 물관리 협력 본격화… 미국 물시장 진출 교두보 확대 - 세계환경신문",
+      "date": "2026-10-29",
+      "source": "세계환경신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfWEVqM21ZWHlaamdNcGxKRTAybHBHU0ZNTnduOHRYdHdILTV6cUQ3TUVPWmlycFJpNi1wXzExX1IwaGJDZkUtMENUNWxVdVNNbG92MmlOM2lYb05pZjNn?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "공정"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "83341cded41e33b417",
+      "title": "[공사 Pick] 한국수자원공사·한국전력·한전KDN, 미래 비전 선포와 AI 혁신 기술 - 라이센스뉴스",
+      "date": "2026-10-29",
+      "source": "라이센스뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VdnFzM0hyaV9oUTNUcmc2WnRRZ3FLSUwwZGdnZjJtTEoyWm1malNsNGd0cWJKR2gxYjJHQ2E3TWxpTmk1dHluUlFoNUFCRHBiYkJ5LXY2cmJtWVpRSVpLb0FReWo0Z09nWU1j?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "ced3507a59d11ed19d",
+      "title": "美 오스틴 물관리에 K-water AI 실증 추진 - 충청일보",
+      "date": "2026-10-29",
+      "source": "충청일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjRmg2ZDMwbHhnc3ljX1dXc2hCWkFlZTlEV2N5QUdXdzg1Vm5qZF9uTlctejNQbWtjczktcnQxSm9KUUZTLVYwTjJ4Y0JNeG9lUUxxUDQ1dm91b0xRbnU4ZVVmWEFoVFhyWlhhaXpEbmw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "869c07c50bad8076c6",
+      "title": "한국수자원공사 남감댐지사, 사천서 치어 방류 행사 - 경남일보",
+      "date": "2026-10-29",
+      "source": "경남일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSZ0RCS0lSVjF5d2tuQUZKT3A3T0k2bndOQkJkTGh4VUN0VEI3QWhiNXQxLWw2UXJNalFIZTViQjFOMzBjaDR0Vjd4SVpfNEhzNHR5LU54T1VqRFFwczhCa0pFRHVkWEJET2l3?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
       "id": "c9f0112e7f0560c285",
       "title": "[한국수자원공사] ‘2026 대한민국 SNS 대상’ 공공기업(공사) 부문 대상 수상 - 워터저널",
       "date": "2026-10-28",
       "source": "워터저널",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOERkYTZvSzEwUHpFcDAyenppUkh1SUNaZlVpQjdYNHR3NUpqZ25tNV9wZWYteXhIakNzQ3lqRWtRQ1prZldLY2hlMDRuYnlEUFFYc2JMdmNOMGdNelJPbmNzQ3lURTQwekFuWTU3NWtVbkEzZ1HSAXZBVV95cUxOZDhEZGE2b0sxMFB6RXAwMnp6aVJIdUlDWmZVaUI3WDR0dzVKamdubTVfcGVmLXl4SGpDc0N5akVrUUNaa2ZXS2NoZTA0bmJ5RFBRWHNiTHZjTjBnTXpST25jc0N5VEU0MHpBblk1NzVrVW5BM2dR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtbFNJRXROV1RucmMzZkRfTko3QlpRZHF5TlZFc2ZUV0g1aC0xVElnUWdLQWRCZlBVREY5RnFmcWpYaXJfOHpMUG5YUXk3bzZ0Y1dWYmt2Tm5ld0o3aWtTSHhxbEt6SWZBVFY5VEhxaTFuUdIBdkFVX3lxTE5kOERkYTZvSzEwUHpFcDAyenppUkh1SUNaZlVpQjdYNHR3NUpqZ25tNV9wZWYteXhIakNzQ3lqRWtRQ1prZldLY2hlMDRuYnlEUFFYc2JMdmNOMGdNelJPbmNzQ3lURTQwekFuWTU3NWtVbkEzZ1E?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
+    },
+    {
+      "id": "d0311bc34484603384",
+      "title": "[한국수자원공사] AI·기후테크 오픈이노베이션 과제 협약 체결 - 워터저널",
+      "date": "2026-10-28",
+      "source": "워터저널",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZXd5b1pGSTJLNFlFUXJPVG5OUGk2djZ0bUlQejZqNUNDUzJGQUVkZXhobDJmYjFaQ0lWdEFlcUhzbzdUbWVlN3JPblM5bkRjV0YtSk1PZ2pEYWVlQ21mWWEtM0NVeFB2S2ExeEJ3NDJxTzUzc2fSAXZBVV95cUxOTmV3eW9aRkkySzRZRVFyT1RuTlBpNnY2dG1JUHo2ajVDQ1MyRkFFZGV4aGwyZmIxWkNJVnRBZXFIc283VG1lZTdyT25TOW5EY1dGLUpNT2dqRGFlZUNtZllhLTNDVXhQdkthMXhCdzQycU81M3Nn?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "계약"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "23d529435528dedd3f",
+      "title": "[한국수자원공사] 베트남에 제2호 AI 정수장 기술수출…수도 하노이까지 진출 - 워터저널",
+      "date": "2026-10-28",
+      "source": "워터저널",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPMU5PeVBXbkRKTHlWQXNud1pEVE1XTlgyb09rTTY0eTVPM3ZzLW9kV3NKNEdKRi11TnlFYl9UNzdZeEJITEM1VDJSaUJaVFhzc1NuMVY0Sjh0ZFNKMmlMR0k3b0NKWnN6SlJsVWczYzhEQdIBdkFVX3lxTFA4VFYydG5JZWQ0UFppV29JYXBoaXVRVVdfNkNQU1dBdjRMUE04YlNidTFxWnowcTlUMjVJM0dZb2VpNnd5aVNFWTROX2tEUXA2QkdXaFlsMHFoRGpPQzAwZkEzVjVEekZmMlB0NmNHSFlTREo0VGc?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
     },
     {
       "id": "1cf23bfd4cb8dd2009",
@@ -78,19 +225,6 @@
       "folder": "project-p7"
     },
     {
-      "id": "23d529435528dedd3f",
-      "title": "[한국수자원공사] 베트남에 제2호 AI 정수장 기술수출…수도 하노이까지 진출 - 워터저널",
-      "date": "2026-10-28",
-      "source": "워터저널",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4VFYydG5JZWQ0UFppV29JYXBoaXVRVVdfNkNQU1dBdjRMUE04YlNidTFxWnowcTlUMjVJM0dZb2VpNnd5aVNFWTROX2tEUXA2QkdXaFlsMHFoRGpPQzAwZkEzVjVEekZmMlB0NmNHSFlTREo0VGfSAXZBVV95cUxQOFRWMnRuSWVkNFBaaVdvSWFwaGl1UVVXXzZDUFNXQXY0TFBNOGJTYnUxcVp6MHE5VDI1STNHWW9laTZ3eWlTRVk0Tl9rRFFwNkJHV2hZbDBxaERqT0MwMGZBM1Y1RHpGZjJQdDZjR0hZU0RKNFRn?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
       "id": "ee1b1290693439e9e4",
       "title": "K-water·MS, 물 복원 협력 확대…수도권 누수 줄이고 부산 하천수 재이용 - 파이낸셜뉴스",
       "date": "2026-10-28",
@@ -103,6 +237,19 @@
         "공정"
       ],
       "folder": "project-p4"
+    },
+    {
+      "id": "272f9a9eb721f51bd0",
+      "title": "AI 리더십 인사이드 | 기후위기가 바꾼 물 관리 방식…한국수자원공사는 왜 AI를 선택했나 - www.cio.com",
+      "date": "2026-10-28",
+      "source": "www.cio.com",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRkhyaWIxYlZYSGZ6S2lZb2tzLTRNVFQ4c3Z2T04wSldFMFJCbGl5X3hwYTRGV0VZZ1dTLWRzaVA5SERtalJoZXJNelVHenlsZDZoZHZyaU53YWdNSVU5S2R2M3RFdXdxY0lvZVVEV1Y5YjB0WkU4ODZfWEt1TFh1RE5lbFpkQmtQMWg5YXZUbU02OFBzMXVCbm11aVJCWHVfLVp1Q2dGd0tUY1VZQjlOa0FUdlFkS3Y2WXI4bk0zQU5DNFY0X1BjZWF0X253Y1kwdTJSeHdmZHFpZ05fZ3QzLWVFMnd6OHpjVkZVSnlfOVh2aE1MYkVubE13clREd1RUTG1tc1QweWM2bGdkRlNSbWhMQ1plajg4TlJKMXEzTFh2cExST0hZSE5Mb1NiNmIzelRGVFQtUldheDVXcmtHUml4dXJabXg5NHdHNV9Udw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
     },
     {
       "id": "2af0650463dd54153b",
@@ -157,6 +304,17 @@
       "folder": "project-p5"
     },
     {
+      "id": "ef8d61534b83fec8bf",
+      "title": "한국수자원공사, 마이크로소프트와 ‘워터 포지티브’ 파트너십 강화 - 뉴스드림",
+      "date": "2026-10-28",
+      "source": "뉴스드림",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSV9naHV2R1h5UkRDSmN5a2xTNDJiM3l6eWVDdFFxTDVkWmh5cUdkdDZkSVFTRHRZN1VwdkZZbmRBLUJvOWxBNzlQeGJQaWMtbGNFclU1bndvT1N4SkxMY2VSQ0tUcnZTc2fSAW5BVV95cUxQS0NJOW1UQ0hhWnhvYUhLeUJlU2lXNmx2NjhfYjFIYWg4OVR5T18tUTdmRTNLX3NpRjJIblBOU0Rza3dLZVI4SFdZVGFqNlU2VjZ6T2YwTTVFb1lPZDU1WUhSUUxLRmt3aFNHZlQ1dw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
       "id": "59f2b767ed3742b91d",
       "title": "한국수자원공사·마이크로소프트, 수도권·부산 물 복원 맞손 - 충청매일",
       "date": "2026-10-28",
@@ -188,19 +346,6 @@
       "source": "프레시안",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80VEdndVRtWWhpOUxBNFVEWXVvOG84Vmk1dmljeVRMMXlqUERxZS02LWN4T2p3Q0o4MWI4by02RkxLVmxBWmtUVS1mb20xdzdMa2JMUGNhcjZkU2hNRkpqNldidE1Bd3Jyek1V?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "사업관리"
-      ],
-      "folder": "company-overview"
-    },
-    {
-      "id": "ab23751686f7262365",
-      "title": "한국수자원공사·마이크로소프트, 수도권·부산 물 복원사업 확대 - 충청탑뉴스",
-      "date": "2026-10-28",
-      "source": "충청탑뉴스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NWTRVQ244Nk1HTGhhRXc4VUpmQXpnVUV4Skw0UlNQU3lKbUJSWVhSQ2UwUFRWMjFFVVk4cE9zek1ESmJRV1lQeGFRTFFvWWtoR0piSEdMQW43bkxjVmNjNGdjc1k?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "사업관리"
@@ -367,147 +512,6 @@
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
-    },
-    {
-      "id": "48ba2702ef839b3e9a",
-      "title": "[공사 Pick] 한국수자원공사·LH, AI 기술 수출과 임대주택 공급 - 라이센스뉴스",
-      "date": "2026-10-27",
-      "source": "라이센스뉴스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PSnEtUzFEQXlrZzBZa1FJNjA3ZzgxdjFjV1FMcThLamxoMm96ODJVR0dsdFVyY2JPSF9ZVmZVYTlnMHhWYThKcFdWSG1yRGd5YUlFeDNNNnREb2NwX2hWbHdMbExtcDR3SVg4?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "c9a56a859f6b6c19b9",
-      "title": "한국수자원공사, 베트남에 AI 정수장 2호 수출… 국제표준화도 속도 - S저널",
-      "date": "2026-10-27",
-      "source": "S저널",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XQjhvNERZTDV0VzVtRUdVanlxMXBneUJIRHduVWswcjNqWi1sa1FMRDQwcDRkSzd4T2E5QmtzTW43aWxNeWVGbTh1NjhKM2ZER2ctQV81Q3o5UzNzZnNabjBKeFhRX2hyaXFsT3ZR?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "3988309485dbac578e",
-      "title": "한국수자원공사, AI 정수장 기술수출 2호 성사…베트남 수도 하노이까지 진출 - 리드경제",
-      "date": "2026-10-27",
-      "source": "리드경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBSjhGZkRHb0s2dUZVU2tPS3ZITmpkWGY0akFxXzd5NXd1dk9kaTdXZngtV1ZuOURHWGVGaWU2LVF6b24wTmxQUU0zN0NyRlRGeWFiRmwxc19CY0Q3dURhOUVHb05mSkxkNDFiTmJQNUU?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "1ef2c26c982a9c6703",
-      "title": "K-water, 베트남에 제2호 AI 정수장 기술 수출 - 한국건설신문",
-      "date": "2026-10-27",
-      "source": "한국건설신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMWpWZ1EyOTJBWS02ODVneXVIUk1KVExwZVpCNUpWRWdXQ3l0aWtsaVBYMUd2dklfUnhxcUsxZFpYRXV1U1N5dVAyZWxBYk03SmRfWkFoSzUyc1Npc19mb2FfeFNGX1JmSUhZ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "6740bf763027cbaaeb",
-      "title": "K-물기술, 베트남 남북 잇는다… 한국수자원공사, 하노이에 '제2호 AI 정수장' 기술 수출 - 메트로신문",
-      "date": "2026-10-27",
-      "source": "메트로신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52ajh6UXNHTmhLby14dkpFSG5VTHUybmp4aWlwQ1Zub1BWdWVBendjeDR0MUZqbUNMQkY5UkRiVDlIYWJFQU9vMWxtQlhqMG01UFRKN2FuOUdqNWwxN0tGaw?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "dd1c9453366adbac65",
-      "title": "“물 관리의 전문성과 대중성을 잇다”… 한국수자원공사, ‘2026 대한민국 SNS 대상’ 공공기업 부문 대상 영예 - 스마트경제",
-      "date": "2026-10-27",
-      "source": "스마트경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wMU5wNXk1c0RZbndmYnJPa1U3RmViU09ZamVUSW5LTm1UX1lMbXNsN09COTM2V1JOVmNkaUs1NUpXekk5WU5DNjlTczV3dW5aQmxJWWRsNDB1Ykk1RDQ3Y3M2ekdDN1dTX3BMVV85RQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "bc380dae135d09bd9b",
-      "title": "한국수자원공사, 베트남 제2호 AI 정수장 수출…하노이까지 진출 - 충청매일",
-      "date": "2026-10-27",
-      "source": "충청매일",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBial9BeXh3a0NOd3ExVUNfdVNqSDRhb2paMzB3MC1laktBZlpSNUpNd2l1cUF6akh0eGV6eTAzbzJjVmVUN2xHRkZJM1VRNnlRaWlsNUxsUmZJZ1FWMFBsU0wzbUlzVEFROHc?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "025c78d7e908f5cacf",
-      "title": "한국수자원공사, 혁신기업 39곳과 맞손…AI 물관리 기술 사업화 추진 - 프레시안",
-      "date": "2026-10-27",
-      "source": "프레시안",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9udHVsSmJxcU9KUERma2hzT0YzQm9ORjExcUI4eXAyS1FPa0hpWURnT0FVanJZQnNlbTFKYlkxbXdfMnZQeE5MSkRvVmNFUEJYVnhKR0wxTzliTHg1UXAtaEs4cGNVVVN2dkxR?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동",
-        "사업관리"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "95131cab78f459b902",
-      "title": "영암군·한국수자원공사, 취약계층 주거환경 개선 나서 - 뉴스21 통신",
-      "date": "2026-10-27",
-      "source": "뉴스21 통신",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VZmE2dC02NGtGOHFZMm01bk5vZ2VVZjNORnFjYVNtTEZBN0syWWVGSTdqQ2pBb21NUmpPcDFaVEg1OU02N0lrTm1nV2VubDAtWHBraEpR?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "3277696f10cd8cbc7c",
-      "title": "한국수자원공사 SNS 대국민 소통 빛났다 - 중도일보",
-      "date": "2026-10-27",
-      "source": "중도일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMOFFtcUtFMXNERjcxcUhGUmFtSUp6UDI5SUhSZzBWR1ZYa0Q5aHpLamdzeTlCbUJWTDU4aVBiXzBUTjMtdE5DOWlrQms4c1NJNGVtanpKLXRJS3YxMmx6S202TXE?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "88c77771c83633f110",
-      "title": "한국수자원공사, AI·사족보행 로봇으로 누수 탐사…39개 기업과 물관리 기술 개발 - 이코노미사이언스",
-      "date": "2026-10-27",
-      "source": "이코노미사이언스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wdzhiSTFhN2pzZ0ZlUERXb2Iyb2hwdnBWX1Q1Q2hURE5Qa05GbnBCZkk1akpzcFNfYmtpQ3BxTXdvUmltTFJSa3NkenR6T2tGV2xsdEJXb1BEcTR1UXpJLXpTdWFEMGtjUTlvT3F1QQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "안전",
-        "역동"
-      ],
-      "folder": "project-p5"
     }
   ]
 }
