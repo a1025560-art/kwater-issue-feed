@@ -1,9 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T22:39+09:00",
+  "generated_at": "2026-11-10T10:29+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
+    {
+      "id": "ad8d199c90a89a9a2b",
+      "title": "한국수자원공사, 영국 리버풀권역정부와 조력발전 협력 강화 - 뉴스1",
+      "date": "2026-11-10",
+      "source": "뉴스1",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGaE5RZkVONWo0QWVCenZ6Z3pRbXN1SUo5VU40NGR6SmE3a0VsUEdFU0laTk5CSmFVcVoxcjlXSk1iOTdTZVU0RmxrVnJXUUtoN3N0d1NjM055WHNBWExKNA?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
+      "id": "6136bd1a8c117854ca",
+      "title": "한국수자원공사, 세계 최대 시화조력 기술로 영국 조력발전 시장 협력 확대 - 리드경제",
+      "date": "2026-11-10",
+      "source": "리드경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56aG9lZ1NVdjN0a013ZEZWMWFXZGZxQnhiWS02ZjBqQjB6Si1WVUFxRXhSRHJEU0hGZnNNTjRLY2xtR0ZmaC1BbElISVZXVUJLTm12WGExamlFZVBWSWc2anBLWFNiWDNwblNJcmNFQlY?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "공정"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "96e972a6b383340f48",
+      "title": "한국수자원공사, 자립준비청년 취업 지원…장학금 1600만원 전달 - www.cctoday.co.kr",
+      "date": "2026-11-09",
+      "source": "www.cctoday.co.kr",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JQVdUMncyNjJnLUlNS2tIblRGcXZWN3RraklNQnNhSHFpUEZWNkNMQ1VaQW5ZZlh4c3R3czNKY0V1R29ibnQ0ckxoWGJYdzAtTnZDNm1BUFJ2ang4UTk0MkRyTjVKQ2xUWXhMeFZn?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
     {
       "id": "9addf5d6fd296a8148",
       "title": "수질 검사 허점 드러난 K-water, 지자체가 광역상수도 수질 검사 나서야 - 서울신문",
@@ -24,6 +62,20 @@
       "source": "파이낸셜뉴스",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhNExtbENHaWtJSUtQS0lXc25aQXdBeVhNdl8zcW9TczZhZnhyS0g3VVBTUG9FZ2ozTExQNVNBM0pfZnc0Y1RLTTF0eDhkRjRYYjZwV0Q1TzVFQQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "안전",
+        "사업관리"
+      ],
+      "folder": "project-p4"
+    },
+    {
+      "id": "1d81b21c173eec4ef7",
+      "title": "한국수자원공사, '사연댐 안전성 강화사업' 착수… 2030년 완공 목표 - S저널",
+      "date": "2026-11-09",
+      "source": "S저널",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwRU81N00zUEQ4bTRCd1RRUnk4cFhKNUVlalBwYVJnMEVmb1dUaDdaQUREQlpLd0xONG55bXRYV243cFlhVWhTTVhXalpDLTZvbVRVS3R0dDEwVUF0UkNpNWtzSmRxelRxcUwwZ2tn?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "안전",
@@ -70,16 +122,15 @@
       "folder": "company-overview"
     },
     {
-      "id": "1d81b21c173eec4ef7",
-      "title": "한국수자원공사, '사연댐 안전성 강화사업' 착수… 2030년 완공 목표 - S저널",
+      "id": "ec1f0ca839fcfd39c0",
+      "title": "한국수자원공사, 사연댐 안전성 강화 본격화 - 울산제일일보",
       "date": "2026-11-09",
-      "source": "S저널",
+      "source": "울산제일일보",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwRU81N00zUEQ4bTRCd1RRUnk4cFhKNUVlalBwYVJnMEVmb1dUaDdaQUREQlpLd0xONG55bXRYV243cFlhVWhTTVhXalpDLTZvbVRVS3R0dDEwVUF0UkNpNWtzSmRxelRxcUwwZ2tn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZkM0QVl6cVpLSnJNa2VaWTdSN3h4SnZrOGtqWGxvby0tRW1fRWhhUDc4QTNhR3dQMnZIOWN6cG5fVEVtckE2b2ZFOUNESUxoTWtuQkY2NEtJb0NuQ1RmSHp2cHcwQQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
-        "안전",
-        "사업관리"
+        "안전"
       ],
       "folder": "project-p4"
     },
@@ -95,6 +146,20 @@
         "역동"
       ],
       "folder": "project-p5"
+    },
+    {
+      "id": "d977f599563d2a7dd3",
+      "title": "한국수자원공사, 울산 사연댐 안전성 강화사업 착공 - 충청매일",
+      "date": "2026-11-09",
+      "source": "충청매일",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yMVB2VjZNTEtlaHVqSXVJdlZkTkhOd3hGV05xZXNOdkFES21tSV9tLW5SUzNFSXVDMGVhdlEyRjFNUTNCSi0wTVp2UWYyd2xTMHZEcVl6dHpYRWxTZHF3WWhQVS1oaF9UUUE?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "안전",
+        "사업관리"
+      ],
+      "folder": "project-p4"
     },
     {
       "id": "91f68eb52fdf5ee4d9",
@@ -149,19 +214,6 @@
       "folder": "project-p4"
     },
     {
-      "id": "ec1f0ca839fcfd39c0",
-      "title": "한국수자원공사, 사연댐 안전성 강화 본격화 - 울산제일일보",
-      "date": "2026-11-09",
-      "source": "울산제일일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZkM0QVl6cVpLSnJNa2VaWTdSN3h4SnZrOGtqWGxvby0tRW1fRWhhUDc4QTNhR3dQMnZIOWN6cG5fVEVtckE2b2ZFOUNESUxoTWtuQkY2NEtJb0NuQ1RmSHp2cHcwQQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "안전"
-      ],
-      "folder": "project-p4"
-    },
-    {
       "id": "c305403b2a8ad150c4",
       "title": "“반구대 암각화 반세기 물막이 씻는다”…한국수자원공사, ‘사연댐 안전성 강화’ 9일 전격 착공 - 스마트경제",
       "date": "2026-11-09",
@@ -174,6 +226,33 @@
         "역동"
       ],
       "folder": "project-p5"
+    },
+    {
+      "id": "cc9f3d94b5bcb563a2",
+      "title": "엄윤설 에이로봇 대표, K-water 명사특강 강사로 나서… ‘물 인프라 현장의 피지컬 AI’ 강연 - 공감신문",
+      "date": "2026-11-09",
+      "source": "공감신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1dE02V3RPNHlhc28yQUZBUzBEMFZRWTVNai1GQXhtdjQxMGtVZS02bEtqSUw3eHFTYUluWmZOdEY0X2YzOHBfSmQ2MUJQY05oM1hrQnRFX1NpR01oU0djOGJ5NU1xWW5E?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "4eb70ef3a2bf37e951",
+      "title": "한국수자원공사, 사연댐 안전성강화사업 착공…반구대 암각화 침수 막는다 - 충청탑뉴스",
+      "date": "2026-11-09",
+      "source": "충청탑뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSRDBPNUF6U3RwTUU2STJ1NlVFbDdLd25DU2ZDNlFZS1c0S3NETlczRUE2ZW1WdEwxaHNqVTNqOWNMZHR0a3lwOWhwZUVnc1FYQ2NvY3FMa2MtY2RfaE9ZTXAtcHg?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "안전",
+        "사업관리"
+      ],
+      "folder": "project-p4"
     },
     {
       "id": "b4f38e573d08e03652",
@@ -202,17 +281,6 @@
       "folder": "project-p5"
     },
     {
-      "id": "ba31a59c7546cdde0b",
-      "title": "한국수자원공사, AWC 회장기관 재선출…2029년까지 이끈다 - 충청매일",
-      "date": "2026-11-08",
-      "source": "충청매일",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mS2pMTkxtUG8tSmFLZlUxeDAzZ3AxRG0wQmVNWEdERWRVWXFteF9mWnZFSjVNNERiMmxiUGZxd24xU0Zrb0pGTFVIanQ1bFhMZDZkNVl3aTNVV0ZjRkhHRTl5MUNsS0FfRkE?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
       "id": "5cafaa0d46d8937dfd",
       "title": "한국수자원공사, 스페인 스마트시티 엑스포서 혁신상 수상 - 충청매일",
       "date": "2026-11-08",
@@ -239,36 +307,12 @@
       "folder": "project-p5"
     },
     {
-      "id": "411b0ea2f67f66e71d",
-      "title": "한국수자원공사, 아시아물위원회 회장기관 재선출…‘글로벌 물 리더십’ 입증 - 중부매일",
-      "date": "2026-11-07",
-      "source": "중부매일",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoUURDblRZc09DWHhLMFZsRGVESzF2bERMRDBqV2prWGF1S254SEpvdzJJQTF4NFdSNkk5b2lUZ2RXY0xqZzc3aDlLWmhibS1mRW9PSlpZU2hsZXI0eEJpclFjdThaQ2FfNUdVTDFB0gFuQVVfeXFMUGhRRENuVFlzT0NYeEswVmxEZURLMXZsRExEMGpXamtYYXVLbnhISm93MklBMXg0V1I2STlvaVRnZFdjTGpnNzdoOUtaaGJtLWZFb09KWllTaGxlcjR4QmlyUWN1OFpDYV81R1VMMUE?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
       "id": "d8f8c68aef12c8b677",
       "title": "K-water, 아시아물위원회 회장기관 재선출…2029년까지 아시아 물 협력 이끈다 - 건설이코노미뉴스",
       "date": "2026-11-07",
       "source": "건설이코노미뉴스",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ybElTNk9JQ01oZVEwMEIycHN4aUNwWkUzNEZ0d1JmWVFVX2xmTFpCd3VhcEFUeFB1NnBWa3J2MXRGcUVrdGhwdnhXeWNoMnQ5emZyemJQQzdNa0xsZkhzOE16ZFhEQQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
-    },
-    {
-      "id": "af5f84968b073e73fc",
-      "title": "한국수자원공사, 'AWC 회장기관 3연임'…아시아 물협력 주도권 강화 - https://www.ppss.kr/",
-      "date": "2026-11-07",
-      "source": "https://www.ppss.kr/",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TR0JpZXVBdUlRZ3hkUmtNU3gzclRGMVpIVGhtY1QtQlhjSXEzcldxbmEwQnBnUFdWMVZibG5tWERMb0IxLXJGcUZ2dDJGN1hQMUlKZVFYYjNUYWxTVEdIeWhuUE8?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "공정"
@@ -302,30 +346,6 @@
       "folder": "project-p5"
     },
     {
-      "id": "841fbb102637a6b326",
-      "title": "한국수자원공사, AWC 회장기관 재선출… 글로벌 물협력 리더십 이어간다 - 세계환경신문",
-      "date": "2026-11-06",
-      "source": "세계환경신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15b0lmWFQ0OE5NbHRQbzB0VUR3U2phcl9WYVFtcFFObGxhaXowaXhLeE5DTVl1MnlEZDlTREwwX1lNbXlsdWs1SnpLRjVMdW13RTQ4b240eW5aM3pMWjVz?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
-    },
-    {
-      "id": "2fb72a4f27efd6f79a",
-      "title": "한국수자원공사, 아시아물위원회 회장기관 연임…리더십 재입증 - 충청투데이",
-      "date": "2026-11-06",
-      "source": "충청투데이",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5saHBuekVIS3o1MEpHMWplZlJfSmxYZ1BEYTZBVGRKakQxU3RNSVR6NXdPQXZobWNndnpkTVdIZmZmWkNKdVZ6dXRhM0l0MEpIem81NHNTOWR4dS05cXptbWlQMnpPa1RaMWNYaExR?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
       "id": "4bf9b8b9e47896f955",
       "title": "한국수자원공사, 아시아물위원회 회장기관 재선출...3년 더 이끈다 - 뉴스락",
       "date": "2026-11-06",
@@ -335,30 +355,6 @@
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
-    },
-    {
-      "id": "dc1d4bd0494bb97052",
-      "title": "K-water, 아시아물위원회 회장기관 재선출…3년 더 이끈다 - 파이낸셜뉴스",
-      "date": "2026-11-06",
-      "source": "파이낸셜뉴스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3Zmo5U25haXFWRTZIdlMtZVVqbmJQSGo5ZDZkY0Y5TVdobUNjcnQwZUJ6VGU3bVktQkRPUzFZY3JMcWFsTDNya19zVzUxeGF3OVFDVUl6VnM5QQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "b007f53f909a3383a2",
-      "title": "한국수자원공사, AWC 회장기관 재선출… 글로벌 물협력 이어간다 - 위키리크스한국",
-      "date": "2026-11-06",
-      "source": "위키리크스한국",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81bm1ZUGNkN1NZV1RKMjQxZlNoZlp2Rm9ReXp4enU4Rzg2cjJMaFZ5TFo1MUtlcmFVUXJMcGRHWFVWNC0yNE9lYW9qdTZYbG94UzBoX0RzVHRCSjNfRFpjTHk3NUVXOHhxVnhoRGliNkY?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
     },
     {
       "id": "c9ad8dc120de31434f",
@@ -372,6 +368,17 @@
         "역동"
       ],
       "folder": "project-p5"
+    },
+    {
+      "id": "dc1d4bd0494bb97052",
+      "title": "K-water, 아시아물위원회 회장기관 재선출…3년 더 이끈다 - 파이낸셜뉴스",
+      "date": "2026-11-06",
+      "source": "파이낸셜뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3Zmo5U25haXFWRTZIdlMtZVVqbmJQSGo5ZDZkY0Y5TVdobUNjcnQwZUJ6VGU3bVktQkRPUzFZY3JMcWFsTDNya19zVzUxeGF3OVFDVUl6VnM5QQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
     },
     {
       "id": "b831b6094de7570da3",
@@ -438,25 +445,23 @@
       "folder": "project-p7"
     },
     {
-      "id": "c2f34089ec714b3765",
-      "title": "K-water, 아시아물위원회 회장기관 재선출…국제 물관리 협력 주도 - 뷰티경제",
-      "date": "2026-11-06",
-      "source": "뷰티경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yRXNBWUJmeVE1NDhsMTB6a0twNGwyc1V4VmJMbS1sMVpOQUxWaUs3OXF0SGZnZ1JXbmdNVllHMkt1ZVBjSHJidjNnRXNVc3ZNTFRWOWhwMEJEOWFpcjZrd21wQmVib25ZOEE?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
-    },
-    {
       "id": "c4d1c0bf442c15f65b",
       "title": "[공기업 센터] 한국동서발전·한전KDN·한국수자원공사 - 민주신문",
       "date": "2026-11-06",
       "source": "민주신문",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ycXJEaFpwZEdRYlE0MEUwcjBxZUF6eGJOcE1lRl9VYWZYeGoxLW9NZGpiZUdtUzhLSmhGaTIwWnVfRkE4QWVlMEdWN0Rvazc5WVo2N2RsdlY1TVBoT1VLb082VHpKNFXSAWtBVV95cUxOYXFiTjJXSkdaWG5BdTdRUnY1MjBjd3l6Z3I5c1lXeHpGTnBCbWRCaGtMbDlFMHVyaGZlajAtRHFtODVUNGF5aDRRbmpXZExuTEhEQ0tJSURxYk1fZTVnTzJ3S1dWMWJiSm90WQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
+      "id": "abf01ed48393830b05",
+      "title": "순천시·K-water, 고립 청년 가구 주거·전기·수도 점검 지원 - 한국사회복지저널",
+      "date": "2026-11-06",
+      "source": "한국사회복지저널",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nZVlqUDBPMVRGYzBWME5GMzRvcEJzX01sX05tUXlhSWVrdE9uQTFnX0dhNld6Vy1oTXFUOWpKOHN0OW9QcHF4MlJlYmxodjFjSHhxOEFMaU1JeGk2dDVZWWVLRENuNWdQYklISQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
