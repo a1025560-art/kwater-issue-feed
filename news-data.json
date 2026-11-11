@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T22:29+09:00",
+  "generated_at": "2026-11-11T10:28+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
@@ -58,12 +58,12 @@
       "folder": "company-overview"
     },
     {
-      "id": "177a919d83e302a74e",
-      "title": "K-water, 영국과 손잡고 조력발전 글로벌 협력 확대…세계시장 공략 시동 - 건설이코노미뉴스",
+      "id": "ad8d199c90a89a9a2b",
+      "title": "한국수자원공사, 영국 리버풀권역정부와 조력발전 협력 강화 - 뉴스1",
       "date": "2026-11-10",
-      "source": "건설이코노미뉴스",
+      "source": "뉴스1",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BQzNOSmhVTDg5ZGRUTnljUEgxODZSVXVCZnJubkZwbUFCQ1dNamJvOThSWlV3N0RFMERLYVk2M3htTFRkRHN1Tm5Gc0dGN2tFcV9jYWE3RjVtWUZPZkxlMDVmUENJZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGaE5RZkVONWo0QWVCenZ6Z3pRbXN1SUo5VU40NGR6SmE3a0VsUEdFU0laTk5CSmFVcVoxcjlXSk1iOTdTZVU0RmxrVnJXUUtoN3N0d1NjM055WHNBWExKNA?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "공정"
@@ -71,12 +71,12 @@
       "folder": "project-p7"
     },
     {
-      "id": "ad8d199c90a89a9a2b",
-      "title": "한국수자원공사, 영국 리버풀권역정부와 조력발전 협력 강화 - 뉴스1",
+      "id": "177a919d83e302a74e",
+      "title": "K-water, 영국과 손잡고 조력발전 글로벌 협력 확대…세계시장 공략 시동 - 건설이코노미뉴스",
       "date": "2026-11-10",
-      "source": "뉴스1",
+      "source": "건설이코노미뉴스",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGaE5RZkVONWo0QWVCenZ6Z3pRbXN1SUo5VU40NGR6SmE3a0VsUEdFU0laTk5CSmFVcVoxcjlXSk1iOTdTZVU0RmxrVnJXUUtoN3N0d1NjM055WHNBWExKNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BQzNOSmhVTDg5ZGRUTnljUEgxODZSVXVCZnJubkZwbUFCQ1dNamJvOThSWlV3N0RFMERLYVk2M3htTFRkRHN1Tm5Gc0dGN2tFcV9jYWE3RjVtWUZPZkxlMDVmUENJZw?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "공정"
@@ -164,19 +164,8 @@
       "folder": "project-p7"
     },
     {
-      "id": "96e972a6b383340f48",
-      "title": "한국수자원공사, 자립준비청년 취업 지원…장학금 1600만원 전달 - www.cctoday.co.kr",
-      "date": "2026-11-09",
-      "source": "www.cctoday.co.kr",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JQVdUMncyNjJnLUlNS2tIblRGcXZWN3RraklNQnNhSHFpUEZWNkNMQ1VaQW5ZZlh4c3R3czNKY0V1R29ibnQ0ckxoWGJYdzAtTnZDNm1BUFJ2ang4UTk0MkRyTjVKQ2xUWXhMeFZn?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "9addf5d6fd296a8148",
-      "title": "수질 검사 허점 드러난 K-water, 지자체가 광역상수도 수질 검사 나서야 - 서울신문",
+      "id": "321fb4e15e12d65509",
+      "title": "수질 관리 허점 드러난 K-water, 지자체가 광역상수도 수질 검사 나서야 - 서울신문",
       "date": "2026-11-09",
       "source": "서울신문",
       "sourceType": "external",
@@ -216,19 +205,6 @@
       "folder": "project-p4"
     },
     {
-      "id": "a708f5f0992aee49a9",
-      "title": "K-water, 스페인 스마트시티 엑스포서 국제 혁신상 수상…탄소중립 기술 세계가 인정 - 건설이코노미뉴스",
-      "date": "2026-11-09",
-      "source": "건설이코노미뉴스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UDhlQmtvUE5FZzdCMldLcG5mdlRQNE5KUHJzVVNVRzdPSi1XajlabWdjZGM4NXc1Q1pCNjVZZ0oycXZpR2xZSGpxNDhRai1uVEhLcmE4YmM3R0VzVm94TDNBenZ6dw?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
       "id": "878c365a1e8a63c785",
       "title": "K-water, 울산 사연댐 안전성강화사업 착공 - 한국건설신문",
       "date": "2026-11-09",
@@ -241,6 +217,19 @@
         "사업관리"
       ],
       "folder": "project-p4"
+    },
+    {
+      "id": "a708f5f0992aee49a9",
+      "title": "K-water, 스페인 스마트시티 엑스포서 국제 혁신상 수상…탄소중립 기술 세계가 인정 - 건설이코노미뉴스",
+      "date": "2026-11-09",
+      "source": "건설이코노미뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UDhlQmtvUE5FZzdCMldLcG5mdlRQNE5KUHJzVVNVRzdPSi1XajlabWdjZGM4NXc1Q1pCNjVZZ0oycXZpR2xZSGpxNDhRai1uVEhLcmE4YmM3R0VzVm94TDNBenZ6dw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
     },
     {
       "id": "1c4240f1598c7208d6",
@@ -290,19 +279,6 @@
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
-    },
-    {
-      "id": "731df5b82bdba33f94",
-      "title": "한국수자원공사, 자립준비청년 40여 명에 AI·디지털 취업 역량 교육 - 충청매일",
-      "date": "2026-11-09",
-      "source": "충청매일",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WYmFMZFRHQk1mSUQ5SGRWczFyTmo4ZVRVaFZmYTNYTjBhWGNHWHREOTdxMUxyUGtSYWd4Nk5PQ3VTcUpCZ25nZ25RS0VTeE9kcERpdUczM2RVX3d4cEQ4T2N2bFh3amE1T2c?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
     },
     {
       "id": "9f8688e352ab42c219",
@@ -513,6 +489,32 @@
       "tags": [
         "역동",
         "사업관리"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "5345174b280a5f56c4",
+      "title": "한국수자원공사, AWC 회장기관 재선출…글로벌 물협력 리더십 이어간다 - 뉴스밴드",
+      "date": "2026-11-06",
+      "source": "뉴스밴드",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55WVA5OGJGUmRMR2pETERSQ3h5X1RWUmdjSXhlS0dxLUxlaXM5ZmZWLWRfZVRoVnpnZjVzaDlKelRnQkk4MEw1XzloSS1hWEdfX0xYTHY0VHdZb1dkbG54RXo5TXJVMllK?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
+      "id": "c3ee8bf3d7aadfbbf3",
+      "title": "K-water 아라뱃길지사, 해양시설 첨단기술 도입 모색 ‘오션 테크홀’ 개최 - 경기일보",
+      "date": "2026-11-05",
+      "source": "경기일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZdmRSaWtuVDBiUFRoZ0JjdXMtQl9OTExRYjFnakM5bDZuRXZsWl9tZld3RkJnSzFFWmVNUHZ2LUM1ckxYa0pWb0VwZWs5RlF4UEUwd1RnZDlzbk0?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
       ],
       "folder": "project-p5"
     }
