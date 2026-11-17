@@ -1,9 +1,33 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T10:40+09:00",
+  "generated_at": "2026-11-17T22:38+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
+    {
+      "id": "080ff6a4b3828de5aa",
+      "title": "K-water·WWF, ‘물+자연’ 통합복원 나선다…기업 ESG 대응 지원 - 에너지데일리",
+      "date": "2026-11-17",
+      "source": "에너지데일리",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6aHRVcjdibGJ5UTdqSUxQMUVLQi1QRVRZSmxVZldVRXpBRnlMQ1ZBXzM3eUU5dUt4VnhtVHdnUHJpOWRleHZXS2hFcUo5V2lWSU50VUFVS0t2V2ZXM3podVFrUFktcW5hUnVlaVRUcV8wdw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
+      "id": "8f511e6f84802b1447",
+      "title": "한국수자원공사, 세계자연기금과 물·자연 통합 복원 협력 나선다 - 매일일보",
+      "date": "2026-11-17",
+      "source": "매일일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CTFNRQmZiNTMxMkp2Vy13dHdPUkpOQU1GTTU1US1tVUU0SXQ1V3hNUnpKRjZna19KUzYwbUtuYUFhcU5aUU1RVlFQYUtmZjJWZmtkM2lDU0xBdUNNUzZaa2llMjE?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
     {
       "id": "81224fe2ac5d3f398f",
       "title": "[신임] 양승조 한국수자원공사 신임 사장, AI 물관리 혁신·물산업 육성 본격화 - 유교신문",
@@ -11,6 +35,119 @@
       "source": "유교신문",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80NTA4cHlmbjNlRjhJNTI3c3ZjNzdHaXJPVkdnQnEzNEFsYnVDQmI2WUgwMVpCQjRYeVNiRjdWejJCblhwcGFqdEp2Rnk5TUt0Unl2WWI3RTMxclYzZ0tFMw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "ba78e0fd22118c3e6b",
+      "title": "[한국수자원공사] 창립 59주년 기념식 개최…양승조 사장 새로운 100년 청사진 제시 - 워터저널",
+      "date": "2026-11-17",
+      "source": "워터저널",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rWmd4VW1DLU5oM1BYU3N2Nm5nYjBhLUp0YmVaQUYtemQ1cnYxemtTM05mMnV5RS03VGtoVDFucXc0RjNJckw0QVRvV0Z6RU9fSjFDMFdIMlZzZWdMWlRCVGRhb2JkbGFqRDB2WnlJWnBDZ9IBdkFVX3lxTE5rOEMtVWprYmRyN0FPTjk3YXY5YzJjZXNYVkh5OVppVVdwTUpMMnAwT29ZUHNncURXTG1CelFNeGR2eURSVnA4SFlUUDhhX0JieEhUWjRlOGtMelJ3M0NocmdSMzhidzE0NkVBQXJ6SlIxS0wxTGc?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
+      "id": "9cf7ba76b93d0a3c27",
+      "title": "장흥군, 취약계층 3가구 물 이용 환경 개선…한국수자원공사와 협력 - 뉴스21 통신",
+      "date": "2026-11-17",
+      "source": "뉴스21 통신",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xVjEzdnFuNzdrVXhLSmwzZXBjSW9JOXpOcU4tVTl2am96dG9KUWY4OWpsRVRtQ3NSa01EcW91cHdFU3ZHMlc4SHlpeUIwWG9kckRURmFn?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
+      "id": "694ffea3abf3c34e5b",
+      "title": "한국수자원공사, WWF와 손잡고 물·생태계 복원 확대…글로벌 ESG 협력 강화 - 리드경제",
+      "date": "2026-11-17",
+      "source": "리드경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ZTF2NEp2ZGhwcm9NT3c5UmhBVWpzZ0tjaW5kbHRlZE5OdERhOURwTmNYeUFNQVdrQkVqTU5uZUE3bjVORDM2ZHZDYkdMczJWOHkzYUVmSEVvaUJDbGRPd1lMZy1uM1M3c0U5QU42d0o?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
+      "id": "00479e13f04f1caf4b",
+      "title": "한국수자원공사, WWF(세계자연기금)과 물·자연 통합 복원 협력 나선다 - 세계환경신문",
+      "date": "2026-11-17",
+      "source": "세계환경신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tcnJhT1l2N09wV1pId181SXkzMV9tYUJCZDhPOEdzN2lmM0FUSmpZRWxHeW1idWVfX244Rkt2Q1k0dkxuZzV2bms3UVBINzh1dnY0Qk11cTJpWU4zYTdV?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
+      "id": "380946fe2bfde3e56e",
+      "title": "한국수자원공사, WWF와 물·자연 복원 협력 - 뉴스락",
+      "date": "2026-11-17",
+      "source": "뉴스락",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fcnk1dVhLRmxkdC1Bc1IxUzdkSVFEdmNfRlhBQTN3NVdsVHZPcnB6ek9wTnZhWFFpcHdCWTYtMFpPbUhJTDZmVlFGdkVsR194WF9ZNE9SanNnYWc1aWh5dWJUTmhwd21pd1FQUQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
+      "id": "db7c89de96e6544561",
+      "title": "한국수자원공사, 한국WWF와 물·자연 통합 복원 위한 업무협약 체결 - 뉴스드림",
+      "date": "2026-11-17",
+      "source": "뉴스드림",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfMEYyU1JJM0dIMk1wMDZpNkxXZHVzR09RUURMeUU3d1BpaDBCNzNlaUZwNS1YMUlmVEFsRXpKX1FSU1RBV193VWNxN1N5cGVTcmp5MFhGX1NGLUhxYlQ0akhkdzNFQ1dZWUVr0gFuQVVfeXFMTkFJYmpGWEd6cnBfdjBiV0hBRm8xMGRXQ0FVbV9ob3FUQkpyTGhuV2piLW1HbW42WFFCNkRfNldZUHJRUDJsSzExMDhRY2c5X29jWmFteHlna05SNkRRaVEzUHQwLWdLTF9LalQwMnc?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "계약"
+      ],
+      "folder": "company-overview"
+    },
+    {
+      "id": "979a0dadef9118c88b",
+      "title": "K-water 영주댐지사 후원 '동네방네'…오운2리서 주민 마을잔치 - 국제뉴스",
+      "date": "2026-11-17",
+      "source": "국제뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54MlpxejVWRGliZS1vNnZES2V1YXJ1Z0VFVnhBeVE2dHF3bWcyQXMycmhxY2tPNDZiYkVWM1lPanhUZEhLMUItZ1lwbVpOM201cVdseG0yM1o3a0E5THlVOUY3amtRS1VhdTljX1ln?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
+    },
+    {
+      "id": "636ea9d293bf7055cf",
+      "title": "K-water 한강유역본부, 댐 주변 관광·복지 상생 본격화...맞춤형 지원으로 활력 제고 - 중부일보",
+      "date": "2026-11-17",
+      "source": "중부일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jM2hGUzlaNnZMWmZjSDRpMUV4cFMyVGV0cE45eVIya3dodmJfaElVdTZJRWNaNzVmeDg1YzhKZ0pMZUIyTTB6c0NCTzMzTU1zeXZIZ1BYX29OQjYyQ1lqRWFIa1R4VWN0ajZqQTN4SQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
+      "id": "38eab277bb532dd5ce",
+      "title": "“물 마시고 버리던 시대 끝”… 한국수자원공사·WWF, 손잡고 ‘물·자연 통합 복원’ 대변혁 선언 - 스마트경제",
+      "date": "2026-11-17",
+      "source": "스마트경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BUU1zQVJlSjExV2RadmdQYmh2bU94c3g2RU9vbG1SMFM3ZXlkNlU2WmpJNmlJUDgxbUgxNEtfSkV3MDN2RW9ldUM3ZXlPLXRBVm9YVy1mZktOWFpKZmNVeXFKZlJsRy1OMEpidU9pRQ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
@@ -166,30 +303,6 @@
       "folder": "project-p5"
     },
     {
-      "id": "6966787032e93f9c9d",
-      "title": "한국수자원공사, 맞춤형 멘토링·현장 체험으로 미래 물 연구인재 육성 - 뉴스밴드",
-      "date": "2026-11-16",
-      "source": "뉴스밴드",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9adGRGd2pNRU1SSVRQb2lpQi10eDQ4NjAzUkVGQkczQkxpUEZwT1ZoTUtuUW1xaVRoY0NDU1FWdlJlMnFhMGZ6R25PdFcweWpFUnFIRldXa09Md29YWGNSbWJNYS1URzM1?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "bdebdadaf4e25c36a9",
-      "title": "“AI로 물길 읽고 대한민국 미래 연다”… 양승조 한국수자원공사 사장, 창립 60주년 앞두고 ‘새로운 100년 청사진’ 선포 - 스마트경제",
-      "date": "2026-11-16",
-      "source": "스마트경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HckM2OTlZQ0k2VkN2MzEwZ3NLVnVaVnIzU0prTlc5MWY4SkxSSk9hWTd2d0FrOHZMeXVDUGtRWVVBcHJWNnlaNTdXOUV0WkdtalVSa2lteUUzZHFnMjVZU1RqbTkwcmhaUElyaDl1dw?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
       "id": "a669a1cced46ffd088",
       "title": "양승조 체제 한국수자원공사, 반도체 메가프로젝트 용수 '기업 시간표'에 맞춘다 - 전자신문",
       "date": "2026-11-15",
@@ -253,17 +366,6 @@
       "source": "쿠키뉴스",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mMmlydUpqTTE3T2FRVGc3NzgtU1ZIQndxN29KMkl6YWhYR1pkWjNTN2RZcjFuS2FVTU1Yd2J1ZjUzY2cyU0w4ZUo2aGhUelBnOEJ5Z3VCeDRTQTd0TUtNLUlmZw?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "5e9b4cf0667eee2a0f",
-      "title": "양승조 17대 한국수자원공사 사장 취임…\"국회·지방정부서 쌓아 온 경험·자원을 아낌없이 활용할 것\" - 동양일보",
-      "date": "2026-11-15",
-      "source": "동양일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VdThVSW5XY1YxRVJrNUh0UDRWVzltMm5yLWVBWlRTS2t1b2lOYm1FNk1KU0Q2dklKRUl2VzlYTUczcGZGaGlGUEZPekFuSjlWcVViTk5samVfVjNVYXQwVjlBN2tBa0FjTHdJ?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
@@ -345,6 +447,19 @@
       "folder": "project-p5"
     },
     {
+      "id": "c7ebab2d21632cddf2",
+      "title": "양승조 한국수자원공사 신임 사장 취임…\"반도체 용수 공급·물산업 육성\" 최우선 과제 - 디지털비즈온",
+      "date": "2026-11-13",
+      "source": "디지털비즈온",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1senNrVGdEcE1CUWtOVFFUZVVER0k4ekRpajhzUzdLRkR4NXBmazFTVmRvZmlRWGNzUHRERjVVU1JZR2F4b0xkWDN4ekZXYnRGTVVVaXo2Nm44MFlwM2VCanJRSlNrR2hkZkU4Q1VpZ3E?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
       "id": "0f0a376bd6f898cdbd",
       "title": "한국수자원공사 신임 사장에 양승조 전 충남지사…13일 취임 - 프레시안",
       "date": "2026-11-13",
@@ -367,19 +482,6 @@
       "folder": "company-overview"
     },
     {
-      "id": "c7ebab2d21632cddf2",
-      "title": "양승조 한국수자원공사 신임 사장 취임…\"반도체 용수 공급·물산업 육성\" 최우선 과제 - 디지털비즈온",
-      "date": "2026-11-13",
-      "source": "디지털비즈온",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1senNrVGdEcE1CUWtOVFFUZVVER0k4ekRpajhzUzdLRkR4NXBmazFTVmRvZmlRWGNzUHRERjVVU1JZR2F4b0xkWDN4ekZXYnRGTVVVaXo2Nm44MFlwM2VCanJRSlNrR2hkZkU4Q1VpZ3E?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
       "id": "3f7067f35e639c1b1b",
       "title": "양승조 K-water 사장 취임… 반도체 용수 공급 최우선·물산업 유니콘 육성 - 중부매일",
       "date": "2026-11-13",
@@ -391,102 +493,6 @@
         "역동"
       ],
       "folder": "project-p5"
-    },
-    {
-      "id": "b9a59efcf1b3ae5fd8",
-      "title": "양승조 한국수자원공사 신임 사장 “국가산업 백년대계 다지고, 모두의 성장 뒷받침” 선언 - 세계환경신문",
-      "date": "2026-11-13",
-      "source": "세계환경신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GR3I2c2tkR2xfR090THllUmdwMkJUSzdFQ0lfU2FPWXNRQ3MxSjNZTXpwaVlfbXhSNkJEX21pOEhzeUk1UHBhU2h5YVhvc3RUQmN4WnBxTzF5QlBWS0ln?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "d04bbde9648f13f2db",
-      "title": "양승조 한국수자원공사 사장 취임…반도체 산업용수 공급 최우선 - 뉴스티앤티",
-      "date": "2026-11-13",
-      "source": "뉴스티앤티",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQnhQTlBwc1QxS2NQLWVKMG9MUmlWaWN2THJtbmphSjV2U0xyUHhmUk1qbTdrVzFDYm5UZlltdEt0dHRMa1dlQ3NHdFpCTUhKeHVSM3AwZXlCWEw0TWdta3NFRV9iREpyMXc?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "11486f7387e4f15e22",
-      "title": "양승조 한국수자원공사 신임 사장 취임, “물관리 변혁 주도” 강조 - 국토일보",
-      "date": "2026-11-13",
-      "source": "국토일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92c3BrNTBoc2FRRVg1ZTAtbC1hcW5LN2x5N0JiYmlkTXF5SHNHeXk3VElfUGhoeS02dlotU0Y3UTJhOUQxanN6d0lJVVJwaHpnS3VVV2RxOVdUU1VsTnNhN2Z2bw?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "7bbad2b8d107dfe62a",
-      "title": "양승조 한국수자원공사 사장 취임…반도체 용수 공급·물산업 육성 속도 - 리드경제",
-      "date": "2026-11-13",
-      "source": "리드경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SzNPdGFWVFBWY1pVRmdLSC1zTUZ2X1NtWG81dTBmc1VfYVNORTYtUVRLWWpVZ3lhTEF2OWdDeFdGQVhubFJvMkNPZEphaDJNWjEzOGxLOVBTelRMVDdnTGx2QVFqcFFPVzJGS2RQNTM?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "df4c98f4e3814b8705",
-      "title": "국립금오공대, 한국수자원공사 구미권지사 기업 탐방 운영…재학생·지역 청년 25명 참여 - 한국대학신문",
-      "date": "2026-11-13",
-      "source": "한국대학신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzLU8xUUFXRzJqMnc5eWZOUThtSExUVzVHaVRSVzlrR3FUZEl6UmZuaWU3MnJCX3doWVVNaFNzaVN0V3VEaU0tSnZtck92Y2dUeWoxVWdyejI1cHhaUk9tRk9ZX01pQQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "사업관리"
-      ],
-      "folder": "company-overview"
-    },
-    {
-      "id": "d982edd9fd4ce46268",
-      "title": "한국수자원공사, 양승조 신임 사장 취임… 전문성 검증은 숙제 - S저널",
-      "date": "2026-11-13",
-      "source": "S저널",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VSU5WNElndVRMNmpUeXVqaTFnOEF2VFliVTVtZzZjZ19iNFhHNDQxeHNtSGFJazdWeGYtVDl1WG05a21SZlctSEtPLUVwYmlPbzRxSm5TTjF6Tm92bVlFd25ubXNoY2YzckhZNjdR?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "7b8c27349b005cb051",
-      "title": "한국수자원공사 신임 사장에 양승조 전 충남지사 - 세이프타임즈",
-      "date": "2026-11-13",
-      "source": "세이프타임즈",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lSXM4eHJjQmc2UXBCSG9HREV5QW1kYTlRUnVyWDRGdWtlVnI3RDNXOE1NMmJMUnJfN2RsZkpfMy0wT3ZJM1JqclMyQnV5VnhtXzljVmZQOEJpTmt6RDJPSEF1M1dwNllwUHd3UnhPRdIBc0FVX3lxTE93N2Q1N3ZjMldNeE1RS3lfOEdDOERYa2EwblFuT1ptdGtnbGR0YkhQUnBXYl92V0RzOHltWmZqaHJKQU90Uk9jUEhGbHV5c0dxY2pSVHpkLVZBTmVwSUFoWFVOSXdjMEppUEJ6dUdtQlE4Nmc?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "b507f019dd4a9d8a57",
-      "title": "국립금오공과대학교, 한국수자원공사 구미권지사 기업 탐방 프로그램 운영 - 구미일보",
-      "date": "2026-11-13",
-      "source": "구미일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTXFjdncwX1lWZFpGVXk2ZlVHWnczTzYycXBNUDYtRU51UTJPODVXMldxTGtGQjVtalRpUHUySl9JbmZtU01EQzdrdzRtR2Y2NHpZQUZPZUUyQ2lJZEE?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "사업관리"
-      ],
-      "folder": "company-overview"
     }
   ]
 }
