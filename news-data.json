@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T22:42+09:00",
+  "generated_at": "2026-11-20T10:35+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
@@ -29,12 +29,12 @@
       "folder": "project-p7"
     },
     {
-      "id": "1bd91e1cc4700166d9",
-      "title": "K-water 태백권지사·물사랑여성회, 연탄 나눔·성금 200만원 기탁 - 강원일보",
+      "id": "07cdb60f234d5d2f00",
+      "title": "물 위의 에너지 혁명 본격화…K-water, 산업 생태계 구축 시동 - 건설이코노미뉴스",
       "date": "2026-11-19",
-      "source": "강원일보",
+      "source": "건설이코노미뉴스",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSUFLRTVoUFJhUll3RFlfb2xhNVVNc2JuSzFUYXNtUXFRMDEyTDN1bG0yLVBFUFZYZDFJb3I2dWxZVUZWd2xzdWp5ZzF5ZGZCQTJ1cVRpS0gwS00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44SFU5eWNLYW5zdXJMVmx4RUhoS1VNMjFYRjFHUFBySE5uLWFLRzh2WnFkMEJCb0VybjZZWlFsdDZSaDFPcUcteVpoS1htWFJIY25rVmZHODNrWjB4WjRZOFVNTjZtZw?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
@@ -66,12 +66,12 @@
       "folder": "project-p5"
     },
     {
-      "id": "07cdb60f234d5d2f00",
-      "title": "물 위의 에너지 혁명 본격화…K-water, 산업 생태계 구축 시동 - 건설이코노미뉴스",
+      "id": "e1bd5b1bb70e513085",
+      "title": "인물 포커스/최갑주 CJ대한통운 더운반그룹장...CJ대한통운ㆍ한국수자원공사, 제주~김포 해상물류길 개척 - 쉬핑뉴스넷",
       "date": "2026-11-19",
-      "source": "건설이코노미뉴스",
+      "source": "쉬핑뉴스넷",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44SFU5eWNLYW5zdXJMVmx4RUhoS1VNMjFYRjFHUFBySE5uLWFLRzh2WnFkMEJCb0VybjZZWlFsdDZSaDFPcUcteVpoS1htWFJIY25rVmZHODNrWjB4WjRZOFVNTjZtZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kRGJPQ01OTG1yRzE4Wm5nUGx5RWd2QWF5Y1EwdFRUSUVvWVZnWlhiX0d1WVJKNkJWQ0gxbjB3VGZTVmpRQzhOTnR4QnVuRnNnZDlPaC1LRDRleGZnODlNdWFHMzBObkFDU0Fjbk5MNWMxYUU?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
@@ -94,17 +94,6 @@
       "source": "에너지데일리",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aUkIzU1hWd1IxSEhXX3AxcU9pZ0wxcWVtWVFNZ2NWTWY1VF80cjF1blQ5V1RCVlNRRmwzdTh1TnBxcjAteDVQZVJYS2UxN0V5a0xGT1pXLUZJZHF4MzZ5RU1NNTBCYXgyaVo4V2NWWWVYQQ?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
-    },
-    {
-      "id": "68e2b72924331d2709",
-      "title": "한국수자원공사, 수상태양광 활성화 협의체 발족…50여 기관 참여 - 국제뉴스",
-      "date": "2026-11-18",
-      "source": "국제뉴스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QU05xdDk3LTJHdlhSVkFidUExM29VZzV1djZNbDJiR3QtTDhhc1FNUEJTenVDaURxX2IxUlhXVk16OW14aFlIT2dlbmhDWjRpQnpsWGl1Y201c242b0ZLbTR2TFRTc2tyR242M2tB?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
@@ -146,17 +135,6 @@
       "tags": [
         "계약"
       ],
-      "folder": "company-overview"
-    },
-    {
-      "id": "ee225eadcf23add7fa",
-      "title": "한국수자원공사, 50여 개 기관 손잡고 수상태양광 확대 본격화 - 리드경제",
-      "date": "2026-11-18",
-      "source": "리드경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvUHVyVmdaN1h0dVhobjNrTzFuNGs0Vk1lcnN3YWtxX3c2QUFrOTZQcHY2R0xIRVFHOFQxYlhtT3ZBdGNlNGljcWNJc2xrX01uLXZkb3NfVjd5djFrRy1pODNzT2xuMXJkNWhIaExJNUk?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
       "folder": "company-overview"
     },
     {
@@ -208,17 +186,15 @@
       "folder": "project-p7"
     },
     {
-      "id": "9a3fd5a08a9f7fa363",
-      "title": "[수면에너지협력]K-water, 수상태양광 산업 활성화 위한 민관협력 협의체 출범 - 전국뉴스",
+      "id": "e9056917107c916d10",
+      "title": "한국수자원공사, 수상태양광 발전협의체 출범 - 뉴스티앤티",
       "date": "2026-11-18",
-      "source": "전국뉴스",
+      "source": "뉴스티앤티",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzWXpWUzdHVjhvSE05TUZ2ZXVXaGRiS1Z1NmRPSnZjLTJIbV84UFVmdUdFUUdjVmQzMnpaNmdJNnR4eWFIai1mYi1lc19Idmw2NlZNQUE2dWtKMTZ6MzZwTExEWkM2UDlISzdwbVQwQTI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xMGdpUEdCVW1VNGJGMm9kVHVWM3psR1Y1TjBUdG1SOFpUWS1NYVlBSnRMZjZfeW5vQ09SRGFEU2NpY0R5NkNfUUY0Z2ctOVRDd1M3bFVZZlVzRXNsUVZ5b09kR2xJSWdxYVE?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
+      "tags": [],
+      "folder": "company-overview"
     },
     {
       "id": "080ff6a4b3828de5aa",
@@ -345,6 +321,19 @@
       "folder": "project-p7"
     },
     {
+      "id": "38eab277bb532dd5ce",
+      "title": "“물 마시고 버리던 시대 끝”… 한국수자원공사·WWF, 손잡고 ‘물·자연 통합 복원’ 대변혁 선언 - 스마트경제",
+      "date": "2026-11-17",
+      "source": "스마트경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BUU1zQVJlSjExV2RadmdQYmh2bU94c3g2RU9vbG1SMFM3ZXlkNlU2WmpJNmlJUDgxbUgxNEtfSkV3MDN2RW9ldUM3ZXlPLXRBVm9YVy1mZktOWFpKZmNVeXFKZlJsRy1OMEpidU9pRQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
       "id": "1d8aa5a815b0c50568",
       "title": "한국수자원공사, 미래 연구인재 육성 위한 R&D 캠프 성료…성과보고회 개최 - 대전일보",
       "date": "2026-11-16",
@@ -354,19 +343,6 @@
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [],
       "folder": "company-overview"
-    },
-    {
-      "id": "2544241807f1a7d255",
-      "title": "K-water, 2030년까지 물관리 전반에 AI 도입 - 대전일보",
-      "date": "2026-11-16",
-      "source": "대전일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZZUdhWjk0Ni1xSEttZlhPNXZqS1E4cnROaFp6N0FiTzFzQTdOYThHUGVvellTVURmRktUa2o3bkYtUGEwOGxGWnlpS192VFpjcWUtQnZRN1R3QVpNWW5wZ2RXaDFBYUpPUFo1cXFCbkNlUHfSAXNBVV95cUxQWWVHYVo5NDYtcUhLbWZYTzV2aktROHJ0TmhaejdBYk8xc0E3TmE4R1Blb3pZU1VEZkZLVGtqN25GLVBhMDhsRlp5aUtfdlRaY3FlLUJ2UTdUd0FaTVlucGdkV2gxQWFKT1BaNXFxQm5DZVB3?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동"
-      ],
-      "folder": "project-p5"
     },
     {
       "id": "0263cb404bdda6aa85",
@@ -388,6 +364,19 @@
       "source": "파이낸셜뉴스",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NbkFzRFotMTFQTWU1LUR5VElyRGRrWnZ0WTZOdmJ4a2JZZFhHam80a1hOOENzRGRuTEk3dHc1dWdMbzcyMEVoZmNYMklfVHJwQ3pZbnI5LThiUQ?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "2544241807f1a7d255",
+      "title": "K-water, 2030년까지 물관리 전반에 AI 도입 - 대전일보",
+      "date": "2026-11-16",
+      "source": "대전일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12eHk4Um0xOG52ajRtZzBVUjN2OTBhUk9yMjhTakEzTTRwNXM3STZoMjhTUEY5UWVlMUMzX2pMWTRYNTlzWTBtdnlYMGEzVkc2NURJRVh1QWxySUF3N183Qk9GUUt4azFsYmdxWnVwc9IBc0FVX3lxTFBZZUdhWjk0Ni1xSEttZlhPNXZqS1E4cnROaFp6N0FiTzFzQTdOYThHUGVvellTVURmRktUa2o3bkYtUGEwOGxGWnlpS192VFpjcWUtQnZRN1R3QVpNWW5wZ2RXaDFBYUpPUFo1cXFCbkNlUHc?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
@@ -493,6 +482,17 @@
         "역동"
       ],
       "folder": "project-p5"
+    },
+    {
+      "id": "e30c839e2714ca2d4d",
+      "title": "양승조 한국수자원공사 사장 취임… “물산업 미래 성장동력 육성” - 경남신문",
+      "date": "2026-11-15",
+      "source": "경남신문",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhWGhPcWw0RkpiRXNuV3M0UHhhbC1nRlFzTnlZS05fR0hxdGVIaTV4WW1mSVY3ZXZUWGdHWG5tM3dBQ0x3WDJmU2ZDc2VGUTRIUGZMZnM4M3g4R0M5UjhBekFLNXczTE9lMXow?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
     }
   ]
 }
