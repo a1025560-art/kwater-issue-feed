@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T16:08+09:00",
+  "generated_at": "2026-11-23T04:51+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
+    {
+      "id": "86b5a925eb82cca0a2",
+      "title": "한국수자원공사 \"호남 반도체 물길에 빈틈 없도록\" - 진일보 | 전남일보",
+      "date": "2026-11-22",
+      "source": "진일보 | 전남일보",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WU3dGSS1sdm81RlZzRlRMUFdBMFRuWnViTVZOS1BVd0xNbzhITW02OVFKSFcyZXN4a29KamRFMUswbU9IUVNQel9STkpFOFY4Wl9WVGxrMjRMNHVUeXJ5cmJfbktkMV9ya2xBcVRxdw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
     {
       "id": "30ac32929c4d415859",
       "title": "K-water, 초순수 품질 검증하는 '제로랩' 개소 - 대전일보",
@@ -272,15 +285,17 @@
       "folder": "project-p5"
     },
     {
-      "id": "1bd91e1cc4700166d9",
-      "title": "K-water 태백권지사·물사랑여성회, 연탄 나눔·성금 200만원 기탁 - 강원일보",
+      "id": "5cd9af7e954a6a8971",
+      "title": "K-water 영주댐지사 후원 '동네방네'…월호1리 주민들과 마을잔치 - 국제뉴스",
       "date": "2026-11-19",
-      "source": "강원일보",
+      "source": "국제뉴스",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSUFLRTVoUFJhUll3RFlfb2xhNVVNc2JuSzFUYXNtUXFRMDEyTDN1bG0yLVBFUFZYZDFJb3I2dWxZVUZWd2xzdWp5ZzF5ZGZCQTJ1cVRpS0gwS00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GRUd0dTVVdE8wcnpaU29VNXFjZXZ2emhORWc2OGFPUVk5YV9pS3EwczlWdm00UHdsX1IySDl4azFJSTBKaHREa3U5VzR3UVJpRDE5b2otRk5kay1JaXJGYWJZRWxKVUE5eVFjTWZB?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
+      "tags": [
+        "공정"
+      ],
+      "folder": "project-p7"
     },
     {
       "id": "97be5338c8b42be853",
@@ -322,6 +337,17 @@
       "folder": "project-p5"
     },
     {
+      "id": "46ba305240cc19ffdd",
+      "title": "대한민국 물 안보와 미래 산업을 이끄는 ‘한국수자원공사’ - 중부매일",
+      "date": "2026-11-18",
+      "source": "중부매일",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11dFJhaWdBNEdsSmFLSV9TR1JqZ1I2Sll0LWxFTmdfakJFTlRBcmRVNklrU0kzajJhSC1GRkxiWUFmM2NUWUQ2TVlOWTJYWktwOEZZa3B0UVloTzRaSmwxZGVxVlpxZXJtd0HSAW5BVV95cUxPcEc1TzBGa000cGFZZXRaOWlYa1FFMDZBWktFbFF4Wm9waXRsMWhjeFBDdDJwLWs3SEpHUFdSMmJlSWFoUGNIUXdkRVdCajEycHBnMnoyVGlER1JEOTRmWEl5V3gtN2VpODFOZ3ZMZw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [],
+      "folder": "company-overview"
+    },
+    {
       "id": "909ec738697fc5340e",
       "title": "반도체 ‘물 확보’ 속도 낸다…K-water, 용인·호남 용수 공급 전면에 - 에너지데일리",
       "date": "2026-11-18",
@@ -333,17 +359,6 @@
         "역동"
       ],
       "folder": "project-p5"
-    },
-    {
-      "id": "b076c2e227bc274264",
-      "title": "한국수자원공사, 민·관·학·연 50여 개 기관과 ‘수상태양광 활성화 발전협의체’ 출범 - 매일일보",
-      "date": "2026-11-18",
-      "source": "매일일보",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56ajBNZllpN1FrRTFndmxTcS04TDNZY0tLWWQwLWRlXy0zejQ4YnhxNzBQVGdIektUN1FqQlNUckF2TElvXzhFUzI1R1hkd09taXB5cFJFRGZ2bi0zQ2FfMFFYRms?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
     },
     {
       "id": "ce59d543c18df8c147",
@@ -437,19 +452,6 @@
       "source": "뉴스21 통신",
       "sourceType": "external",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xVjEzdnFuNzdrVXhLSmwzZXBjSW9JOXpOcU4tVTl2am96dG9KUWY4OWpsRVRtQ3NSa01EcW91cHdFU3ZHMlc4SHlpeUIwWG9kckRURmFn?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "공정"
-      ],
-      "folder": "project-p7"
-    },
-    {
-      "id": "55fa5b41915dfd8bdb",
-      "title": "한국수자원공사, 세계자연기금(WWF)와 물순환·생태계 복원 협력 강화 - 충청투데이",
-      "date": "2026-11-17",
-      "source": "충청투데이",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0Z19HYi1MZ0xBRE1pUVhnQkxxSGZhbUF4UWJlb2Y2d1hLbFNITmRTNGkxcWdialdYWkhESG9OMUVUVDItcmZzRk9Bemc2Y1c1UnRZVjh4OFlQVllBaEgwT09nemxXeVlEQlpFa3Bn?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "공정"
