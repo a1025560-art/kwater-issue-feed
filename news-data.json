@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T19:08+09:00",
+  "generated_at": "2026-11-25T07:37+09:00",
   "source": "Google News RSS · 검색 결과 (자동 사실 검증 아님)",
   "source_url": "https://news.google.com/rss/search?q=%28%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%22%20OR%20%22K-water%22%20OR%20%22%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%EA%B3%B5%EC%82%AC%20%EC%A3%BC%EC%95%94%EB%8C%90%22%29%20when%3A30d&hl=ko&gl=KR&ceid=KR:ko",
   "items": [
@@ -30,19 +30,6 @@
       "folder": "project-p4"
     },
     {
-      "id": "2c62f1d2e8ea1eb0e1",
-      "title": "한국수자원공사, 충주댐 홍수 방어력 1.6배 높였다…기후재난 선제 대응 - 리드경제",
-      "date": "2026-11-24",
-      "source": "리드경제",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FTDU0dHRfUUlOQ284a0UyMEpKNUtGWkxpeTJsSk4tU3dHenhNRGRWeG9qZ2ZJOUp6Q0RaQzNiQXdtQTBndWVEclYxY1FHWnhNTzRrUHgwbVN2TjJKTlUzNXluMnhNRUxUM0ZiRDVqejI?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "안전"
-      ],
-      "folder": "project-p4"
-    },
-    {
       "id": "b8711c60f6375d66ec",
       "title": "한국수자원공사, 대전지역 혁신포럼 개최 - 뉴스티앤티",
       "date": "2026-11-24",
@@ -56,6 +43,19 @@
       "folder": "project-p5"
     },
     {
+      "id": "2c62f1d2e8ea1eb0e1",
+      "title": "한국수자원공사, 충주댐 홍수 방어력 1.6배 높였다…기후재난 선제 대응 - 리드경제",
+      "date": "2026-11-24",
+      "source": "리드경제",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FTDU0dHRfUUlOQ284a0UyMEpKNUtGWkxpeTJsSk4tU3dHenhNRGRWeG9qZ2ZJOUp6Q0RaQzNiQXdtQTBndWVEclYxY1FHWnhNTzRrUHgwbVN2TjJKTlUzNXluMnhNRUxUM0ZiRDVqejI?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "안전"
+      ],
+      "folder": "project-p4"
+    },
+    {
       "id": "4538dddc193d14ccf1",
       "title": "[오늘의 공기업 채용정보] 한국수자원공사, 2026년 하반기 AI 체험형 인턴 150명 - 아웃소싱타임스",
       "date": "2026-11-24",
@@ -64,6 +64,20 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uaE5LRk9UZXNyaVpQU21DSlV1blJPMFlBb2NoVGdoWE1qRWVQWl9MZnk4ZFFGUHBTOHROWlZLbHNKd2NiTFJaTnFlRUdTX09ZYVJyRkdPT185aVdYTEhkUERKVjZka1BjWmpHNnYySkxIZw?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "91b6991f4a5f5e7038",
+      "title": "한국수자원공사, 반도체 용수 이어 충주댐 점검… 성장·안전 방점 - S저널",
+      "date": "2026-11-24",
+      "source": "S저널",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1UDZUdHlVT2g5Z2pTNjFOalNRWVNhYVh4RU9qUGR5OTdaNS04WEh5SDJVOVBuaTJRUkVWQ2s0MlV2TTJnclRiaGZ0ZXl4NldrcDU1VmktTU5qWTZVcFJyaGpyaWhYWWhmRmNiVlJR?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "안전",
         "역동"
       ],
       "folder": "project-p5"
@@ -93,6 +107,19 @@
       "folder": "company-overview"
     },
     {
+      "id": "0e669464f167a45b46",
+      "title": "한국수자원공사, 대전지역 혁신포럼 개최 - 쿠키뉴스",
+      "date": "2026-11-24",
+      "source": "쿠키뉴스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GRS0yN2pFR2xOaWd5WTVETS1GemZnOTRyWUJ6Y1RVYTE1R193VlphYXZQSlNOLTByMExZY2FaTXR5SzM4YU5xeV9wVktobTJ0NjNScnpuS3VvQ2lJbUIzbEdWYw?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
       "id": "28e62474f393bb42bd",
       "title": "KT, K-water ‘물관리 피지컬 AI’ 구축 협력 - BI KOREA",
       "date": "2026-11-24",
@@ -105,31 +132,6 @@
         "공정"
       ],
       "folder": "project-p5"
-    },
-    {
-      "id": "caaf80c109bd7c709e",
-      "title": "한국수자원공사, 대전 기후테크 산업 육성 위해 혁신기관 협력 - 충청매일",
-      "date": "2026-11-24",
-      "source": "충청매일",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BM25mQmphN3YwVFN0YmNBeEpWUWpHb0M4QURxMkV0c21GYzdkUlVRVzE5M1pfNFJDZHRjRFVyb0NNNkVGSkItYl9fODhMNkE5eHhucy13WHBhbjV4aFZIQ2lUbldMSk9VM1E?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동",
-        "공정"
-      ],
-      "folder": "project-p5"
-    },
-    {
-      "id": "d5ed1260e200f1bf23",
-      "title": "한국수자원공사 취약계층 물 이용 환경 개선 - 장흥신문",
-      "date": "2026-11-24",
-      "source": "장흥신문",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zSXl0a2E4ZXNTLUpWaEY5T0p4X19FbDU0QkhHbWJDOGoxZkNucFJhc3FsdmNHdFZsVC00ODBWY2FiWkQ1Tm1hQnJoUTRHZ0ZGR0Z0em9qc0JYLWFQUUpZdUxLbGR2ZmpSanfSAW5BVV95cUxPc3NKaDgta09kRkxzSzFxdnNXS1duNk9PNEpxV2MzVzZXbEtGOTZhU1NEeEFsb0paVnlhTkFReXFNSWRYTjAxdVpLVTJSX01YTTZIZUhNdWlCc3VjMGNwVUM5UDhaeXI4ZFpBeFRzdw?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [],
-      "folder": "company-overview"
     },
     {
       "id": "5b9522514b8187cab9",
@@ -161,20 +163,6 @@
       "folder": "project-p5"
     },
     {
-      "id": "e056292a8a00b3ffb8",
-      "title": "KT, 한국수자원공사와 물관리 분야 피지컬AI 협력 - AI타임스",
-      "date": "2026-11-23",
-      "source": "AI타임스",
-      "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBub3hXSDBZSHktVm5OV3pDTXNvVmlWWVVGR2UtMEd5SGlDWkZ6aG5lcU00Z1d2djlESlVEcG50WGlEZWVta2JFRUxDRkZJcEpBbGs0UE8tMVRXN2JRejVCM1ctamVwcTJrdnc?oc=5",
-      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
-      "tags": [
-        "역동",
-        "공정"
-      ],
-      "folder": "project-p5"
-    },
-    {
       "id": "228052d4dcf5604008",
       "title": "KT, 한국수자원공사와 업무협약 체결 - 연합뉴스",
       "date": "2026-11-23",
@@ -197,6 +185,20 @@
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
+      ],
+      "folder": "project-p5"
+    },
+    {
+      "id": "e056292a8a00b3ffb8",
+      "title": "KT, 한국수자원공사와 물관리 분야 피지컬AI 협력 - AI타임스",
+      "date": "2026-11-23",
+      "source": "AI타임스",
+      "sourceType": "external",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBub3hXSDBZSHktVm5OV3pDTXNvVmlWWVVGR2UtMEd5SGlDWkZ6aG5lcU00Z1d2djlESlVEcG50WGlEZWVta2JFRUxDRkZJcEpBbGs0UE8tMVRXN2JRejVCM1ctamVwcTJrdnc?oc=5",
+      "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
+      "tags": [
+        "역동",
+        "공정"
       ],
       "folder": "project-p5"
     },
@@ -516,12 +518,12 @@
       "folder": "project-p5"
     },
     {
-      "id": "95e143cd43c4959c6d",
-      "title": "한국수자원공사, 대전지역 혁신포럼 개최 - 쿠키뉴스",
+      "id": "9ebae3249758ee7dd0",
+      "title": "KT, K-water와 물관리 AI 전환 본격화… 현장 설비까지 ‘지능화’ - Korea IT Times",
       "date": "2026-11-23",
-      "source": "쿠키뉴스",
+      "source": "Korea IT Times",
       "sourceType": "external",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GRS0yN2pFR2xOaWd5WTVETS1GemZnOTRyWUJ6Y1RVYTE1R193VlphYXZQSlNOLTByMExZY2FaTXR5SzM4YU5xeV9wVktobTJ0NjNScnpuS3VvQ2lJbUIzbEdWYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oU3hVZnViRzlSakZKQ1psS09RLVVJR1hXQ1p4NjZ4OUVzdDdmaW1wZ3BIQVdWM2oxMFpjeU51Zlh0cGNsZ2NkdXF0R2ZvVDJJenc1WnRQamVJQXE3ZmxEOV94Z2NwTUlGRXNRX2lQWDg?oc=5",
       "summary": "뉴스 검색 피드에서 제목과 게시일을 수집했어요. 사실관계는 기사 원문과 공식 자료를 대조해 확인해 주세요.",
       "tags": [
         "역동"
